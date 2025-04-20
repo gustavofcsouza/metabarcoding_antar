@@ -1,0 +1,961 @@
+OTU_ID;kingdom;phylum;class;order;family;genus;species;sample;value;type;site;primer;group;subgroup
+8ba308a28139ac0a0f2d383884b8fe3d;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;289395;Faecal;Hannah Point;12S;Metazoa;Chordata
+7f4fdd1245c0df2d0876e0b0c4f32244;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;39341;Faecal;Hannah Point;12S;Metazoa;Chordata
+c5e32c6dc1cb538bc47140d9189e51f7;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+2bc557c9207c4743620ba3022200fc57;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;30158;Faecal;Hannah Point;12S;Metazoa;Chordata
+ec50f6cfcdd4ccd5013228ad88ddeebc;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;27849;Faecal;Hannah Point;12S;Metazoa;Chordata
+e3c722831d496f5f7ec69c26c6c5b497;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+8ac11cd838049f0459347a2056281a86;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+5b2ce0ee41d070c4426cbc1d71d18a30;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;2085;Faecal;Hannah Point;12S;Metazoa;Chordata
+05a7eec5a6470c9bb24861185c9783d2;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;1730;Faecal;Hannah Point;12S;Metazoa;Chordata
+15438018c0dbf8a417d7f56427bd89fa;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;1352;Faecal;Hannah Point;12S;Metazoa;Chordata
+20a8ee34d8ac185a06f3206f72cd9de5;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+7b77e0e4cf1f5f34eb495c8d10ae94a8;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+dbb39c9105dd949049b016ab4a0520a3;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;386;Faecal;Hannah Point;12S;Metazoa;Chordata
+d0d51f8179ef25f4c1a1fb79d9879823;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;371;Faecal;Hannah Point;12S;Metazoa;Chordata
+ac0297c2edfcf08256e02dfa05bbd884;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+e1a6d70df17718a1e3144f35802f8381;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+a24bd5f636d6f28d748e184043587f42;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;230;Faecal;Hannah Point;12S;Metazoa;Chordata
+918e5ba8fd31c93fc4c808141fca7ef0;Metazoa;Chordata;Actinopteri;Perciformes;Bathydraconidae;Gymnodraco;Gymnodraco_acuticeps;PIM-119;210;Faecal;Hannah Point;12S;Metazoa;Chordata
+b737531fad1c9c5f51fcea17de110c58;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+5b669f2a85076456844cc1538b90deba;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;194;Faecal;Hannah Point;12S;Metazoa;Chordata
+2c2fea343070acd9346dfe847ee85312;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;188;Faecal;Hannah Point;12S;Metazoa;Chordata
+7dccf81a9f9fcb72cd6014e32b247dc7;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+13cdc3d559b13b83827e12293f8dc252;Metazoa;Chordata;Actinopteri;Perciformes;Bathydraconidae;Gymnodraco;Gymnodraco_acuticeps;PIM-119;115;Faecal;Hannah Point;12S;Metazoa;Chordata
+92f7be7efc5f88e836ed5024eb910975;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-119;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+8ba308a28139ac0a0f2d383884b8fe3d;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+7f4fdd1245c0df2d0876e0b0c4f32244;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+c5e32c6dc1cb538bc47140d9189e51f7;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-120;35773;Faecal;Hannah Point;12S;Metazoa;Chordata
+2bc557c9207c4743620ba3022200fc57;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+ec50f6cfcdd4ccd5013228ad88ddeebc;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+e3c722831d496f5f7ec69c26c6c5b497;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+8ac11cd838049f0459347a2056281a86;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+5b2ce0ee41d070c4426cbc1d71d18a30;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+05a7eec5a6470c9bb24861185c9783d2;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+15438018c0dbf8a417d7f56427bd89fa;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+20a8ee34d8ac185a06f3206f72cd9de5;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+7b77e0e4cf1f5f34eb495c8d10ae94a8;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+dbb39c9105dd949049b016ab4a0520a3;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+d0d51f8179ef25f4c1a1fb79d9879823;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+ac0297c2edfcf08256e02dfa05bbd884;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-120;367;Faecal;Hannah Point;12S;Metazoa;Chordata
+e1a6d70df17718a1e3144f35802f8381;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-120;276;Faecal;Hannah Point;12S;Metazoa;Chordata
+a24bd5f636d6f28d748e184043587f42;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+918e5ba8fd31c93fc4c808141fca7ef0;Metazoa;Chordata;Actinopteri;Perciformes;Bathydraconidae;Gymnodraco;Gymnodraco_acuticeps;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+b737531fad1c9c5f51fcea17de110c58;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+5b669f2a85076456844cc1538b90deba;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+2c2fea343070acd9346dfe847ee85312;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+7dccf81a9f9fcb72cd6014e32b247dc7;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-120;122;Faecal;Hannah Point;12S;Metazoa;Chordata
+13cdc3d559b13b83827e12293f8dc252;Metazoa;Chordata;Actinopteri;Perciformes;Bathydraconidae;Gymnodraco;Gymnodraco_acuticeps;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+92f7be7efc5f88e836ed5024eb910975;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-120;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+8ba308a28139ac0a0f2d383884b8fe3d;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;469569;Faecal;Hannah Point;12S;Metazoa;Chordata
+7f4fdd1245c0df2d0876e0b0c4f32244;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+c5e32c6dc1cb538bc47140d9189e51f7;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+2bc557c9207c4743620ba3022200fc57;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+ec50f6cfcdd4ccd5013228ad88ddeebc;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+e3c722831d496f5f7ec69c26c6c5b497;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;4101;Faecal;Hannah Point;12S;Metazoa;Chordata
+8ac11cd838049f0459347a2056281a86;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;3516;Faecal;Hannah Point;12S;Metazoa;Chordata
+5b2ce0ee41d070c4426cbc1d71d18a30;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+05a7eec5a6470c9bb24861185c9783d2;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+15438018c0dbf8a417d7f56427bd89fa;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+20a8ee34d8ac185a06f3206f72cd9de5;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;790;Faecal;Hannah Point;12S;Metazoa;Chordata
+7b77e0e4cf1f5f34eb495c8d10ae94a8;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;663;Faecal;Hannah Point;12S;Metazoa;Chordata
+dbb39c9105dd949049b016ab4a0520a3;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+d0d51f8179ef25f4c1a1fb79d9879823;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+ac0297c2edfcf08256e02dfa05bbd884;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+e1a6d70df17718a1e3144f35802f8381;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+a24bd5f636d6f28d748e184043587f42;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+918e5ba8fd31c93fc4c808141fca7ef0;Metazoa;Chordata;Actinopteri;Perciformes;Bathydraconidae;Gymnodraco;Gymnodraco_acuticeps;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+b737531fad1c9c5f51fcea17de110c58;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;196;Faecal;Hannah Point;12S;Metazoa;Chordata
+5b669f2a85076456844cc1538b90deba;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+2c2fea343070acd9346dfe847ee85312;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+7dccf81a9f9fcb72cd6014e32b247dc7;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Trematomus;Trematomus_bernacchii;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+13cdc3d559b13b83827e12293f8dc252;Metazoa;Chordata;Actinopteri;Perciformes;Bathydraconidae;Gymnodraco;Gymnodraco_acuticeps;PIM-121;0;Faecal;Hannah Point;12S;Metazoa;Chordata
+92f7be7efc5f88e836ed5024eb910975;Metazoa;Chordata;Actinopteri;Perciformes;Nototheniidae;Patagonotothen;Patagonotothen_ramsayi;PIM-121;50;Faecal;Hannah Point;12S;Metazoa;Chordata
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-118;51;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-118;36;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;563;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;623;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+1be5c1a136fbf125ff9a8b4261bc1bf4;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;248;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+d1ce5dffd71f2c55feecedffb25728ee;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;183;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+4d941689a6964eaac1cbf524c3ac3f02;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;110;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+0cd146d8e1a65795e45ea778035b97f4;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;47;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+f384f2063d39a58621dbe0d9f51cf8cb;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;43;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+11f8f39b980f2fec9fe6133419ef03ea;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;37;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+f268169225e1941bb5464a957edb1ac2;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-119;19;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-120;183;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-120;75;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+79d8e91f31ca4352d99d4c22993568a2;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-120;25;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+a00f0e3355c0561a3ab0170f04628c94;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-120;20;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+982dabe0a4379f41f96f28d6501e4508;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-120;17;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-121;83;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-122;132;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-122;79;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+b13ae7492ba6db86ca1642e4b97af82a;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-122;44;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+87f0051500750044eedcf9a0ea612155;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-122;43;Faecal;Hannah Point;COI;Metazoa;Arthropoda
+a75d7d467e67212674266ccbd70a0bc1;Metazoa;Arthropoda;Malacostraca;Amphipoda;Pontogeneiidae;Djerboa;Djerboa_furcipes;PIM-104;2205;Faecal;Argentinian Cove;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-104;77;Faecal;Argentinian Cove;COI;Metazoa;Arthropoda
+a756dc3914e8d79f4e541a2e59bb2deb;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-104;175;Faecal;Argentinian Cove;COI;Metazoa;Arthropoda
+79d098981553772bda8d1823a66466fe;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-104;57;Faecal;Argentinian Cove;COI;Metazoa;Arthropoda
+1ef4b72941dc1716563181c3fa89f498;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-104;42;Faecal;Argentinian Cove;COI;Metazoa;Arthropoda
+9d6324d1948097a94496c45af47ab493;Dinoflagellata;Alveolata; Syndiniales;Syndiniales;Syndiniaceae;Hematodinium;Hematodinium_sp;PIM-104;13;Faecal;Argentinian Cove;COI;Non-Metazoa;SAR
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-219;54;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-219;63;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+e658af59e1760ad52928cf247f65e741;Metazoa;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Cryptopygus;Cryptopygus_antarcticus;PIM-219;393;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+ca7c8ae69c73774e7dd4ce65d4eff8cc;Metazoa;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Cryptopygus;Cryptopygus_antarcticus;PIM-219;23;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+07e1b618b6cd44e64fe632dd27d56290;Metazoa;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Cryptopygus;Cryptopygus_antarcticus;PIM-219;22;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+2ac9a9b8f686a46b0a2162a316eca8e7;Metazoa;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Cryptopygus;Cryptopygus_antarcticus;PIM-219;21;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-352;73;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+6f397ddc2688340b0da489f6092f587e;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-352;79;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+e5fc7a8d4950a8ef5110f1505ccb252a;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Thysanoessa;Thysanoessa_macrura;PIM-352;23;Faecal;Miers Bluff;COI;Metazoa;Arthropoda
+0bb8c574c62c27f8d1a3d15bfebcf9c0;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-21;16;Faecal;Espanola Cove;COI;Metazoa;Arthropoda
+6d39b3b92aecc69b3758837442bae4c3;Metazoa;Arthropoda;Malacostraca;Euphausiacea;Euphausiidae;Euphausia;Euphausia_superba;PIM-21;67;Faecal;Espanola Cove;COI;Metazoa;Arthropoda
+18d71a69329be52c09337e6e249a12f6;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-108;169;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-108;198;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-108;184;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+cde906447d115b3a4b068d35a7f11ab7;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-108;105;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4862c37e2c609dca851c2f6fb26a2a51;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_escambia;PIM-108;291;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+2cbe3866854dda15da85584a19c926bb;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-108;4556;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;Rhodophyta;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-108;36;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+9a016f71897869cd690e6a7a90712cf4;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-108;3294;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+ffd76cb499b660599a1091dc8c482e39;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-108;173;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-108;400;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-108;42636;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+a8a84ee870e59133bcba4f57b9e04913;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;132;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+18d71a69329be52c09337e6e249a12f6;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;2723;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+45b0c3ec981353d6dd5890104b35d7b2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;47;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+1ecdfbaa7437fcfca9e1bea8109d6a5b;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;249;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+5398ddd0b620981f83b604ac27cb0dfb;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_antarctica;PIM-171;71;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+ee268f4e627a743568c397b0cfcd6452;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;220;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+6cfada477744cd7437424195404045e1;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;61;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+854bd8ced3f4f2fb76ac7aa1b8f7c746;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;462;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+43164a4aa027e230f16bd378df1de1e3;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;205;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;44348;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+b2b7780df4b5206ad0bd230f321a82ad;Eukaryota;Bacillariophyta;Fragilariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_cryptotenella;PIM-173;23;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+8909a98f8378cffa0b82edc7f6c62aef;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_escambia;PIM-173;147;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4977868a448a768806c5462a31ac066f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-173;124;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+ecd25b404d26d192acbd3b5385bfe021;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-173;73;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+cbe91771420fc23060f2e92d01e758fa;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-173;187;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+f5d61444f291d8b817d4aa65d2abcbc6;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-173;53;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-173;140;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61b1c2a58b41ab24b0aae603d2213ee0;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-173;141;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+86a62137e86bb015a6f869c09d41750e;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-173;68;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-173;40672;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4977868a448a768806c5462a31ac066f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-470;22;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+20e61e889927f153f2de3f1bac2d0f83;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_debilis;PIM-470;15;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-470;12;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+da71ba3723b88b3b509a937a88152964;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Melosirales;Melosiraceae;Melosira;Melosira_moniliformis;PIM-470;39;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;Rhodophyta;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-470;32;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+9913089723dda8715398fbd44c05536a;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-470;47;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-470;24;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+0e5f4ca045eb033543d7d7b09d35b5b8;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-470;28;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-470;17020;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-470;11662;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+9913089723dda8715398fbd44c05536a;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-472;30;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+e9b49501c0fb964d1a00bad4acc0f969;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_kerguelensis;PIM-472;20;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+e2711988c031afa33c1a33529a864eab;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-472;61;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61b1c2a58b41ab24b0aae603d2213ee0;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-472;78;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+0457ddb3dcc91e07b19ee964c661d64e;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-472;43;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+984ec452789309dab7332a911eda7eec;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-472;8;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-472;30823;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-472;2640;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+1d783f415a8fe86ae7eda78a15932bd4;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-473;114;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+8c8dec3260bc11b204081fd8be369ae0;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Melosirales;Melosiraceae;Melosira;Melosira_moniliformis;PIM-473;147;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-473;23;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-473;46;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;Rhodophyta;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-473;254;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+3f2822657a8f44d09c9f19d7f4aa7915;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-473;81;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+f5d61444f291d8b817d4aa65d2abcbc6;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-473;47;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c8bcb6faa29c19f2cf5435069b48c6c7;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-473;24;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+984ec452789309dab7332a911eda7eec;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-473;16;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-473;45711;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-473;1294;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+1c95aecd4269009763282bdaed8805e2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-485;85;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+6b98efe6a767a69b2bbc2d07c2b6b73f;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-485;98;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+ee8258141dfc8fa33f2c182e39a0a441;Eukaryota;Bacillariophyta;Fragilariophyceae;Fragilariales;Fragilariaceae;Synedropsis;Synedropsis_cf._recta;PIM-485;12;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+8857c3eb06aad07316481c9d6812812f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-485;170;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-485;121;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-485;34;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+205ba529f10ffe53e99fc86c0c37a125;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-485;212;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;Rhodophyta;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-485;20;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+8b0cf9347729d73eacc2703be3d7b101;Eukaryota;Bacillariophyta;Fragilariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_hirudiniformis;PIM-485;127;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+a9d475ed9b024a00c7ee9ca194116a0f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-485;162;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+584275e0a1758b9e1a5112ce69334bcc;Eukaryota;Rhodophyta;Florideophyceae;Gigartinales;Phyllophoraceae;Gymnogongrus;Gymnogongrus_turquetii;PIM-485;1425;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+095eb567e778e60c3ece52732ae52918;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-485;234;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-485;2374;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+fa77fdf9af4a363732da09f261dd4925;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-485;54;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+fa0a696aab3bc3d92a4f0aa5826b1093;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-485;64;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-485;66758;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+0720736e8f01cdc50ead972240dbe8bc;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;301;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+7234b686f2196b7e2d85e812ac74ebf2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;221;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+79ee0ee5afc697c8d3451c926f9b7fb1;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;322;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+f89c716dff8ab10e5a44407979680d52;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;29;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+2b5e7b5186f815a000ee1a90de70e1db;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;127;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+1b5650be3059eff24b780621e22597f8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;376;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+090065f6a515b0c377987d414eba12cd;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;27;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-487;77321;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+dd642527fdb935a822d6c83430ad7c2f;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-489;174;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+2aa057dd680a86631819d39f5acc2f31;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-489;255;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+8909a98f8378cffa0b82edc7f6c62aef;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_escambia;PIM-489;186;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+55b4ab2e0c6876afb8343ae6b75ed757;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-489;93;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+8c8dec3260bc11b204081fd8be369ae0;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Melosirales;Melosiraceae;Melosira;Melosira_moniliformis;PIM-489;98;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-489;254;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+b5a11f37897f7b283a70333f00d70ee7;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-489;129;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+a9519aa5a870a9d185293b913e9a1009;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-489;128;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c7bb5ceaac3e4d70a47794130c268a88;Eukaryota;Ochrophyta;Phaeophyceae;Ascoseirales;unknown family;Ascoseira;Ascoseira_mirabilis;PIM-489;27;Krill;South Bay;RBLC;Non-Metazoa;Ochrophyta
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-489;871;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+e19f4d8645c74320e636885fc4926796;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-489;890;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+b88c56bb9a76303a738e33cd134de4e3;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-489;64;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-489;2361;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+6012d632fa4f223dc9a91a9adb3b9bce;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-489;416;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-489;91388;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+11fee19cd223d5668e86e037a81af9dc;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_escambia;PIM-489;162;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+6646a7904cf85fb89e18297a9497a001;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;303;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-490;366;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+4789b7dfd76782349d9a460ecbed6405;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;326;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+7234b686f2196b7e2d85e812ac74ebf2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;30;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c7bb5ceaac3e4d70a47794130c268a88;Eukaryota;Ochrophyta;Phaeophyceae;Ascoseirales;unknown family;Ascoseira;Ascoseira_mirabilis;PIM-490;237;Krill;South Bay;RBLC;Non-Metazoa;Ochrophyta
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-490;150;Krill;South Bay;RBLC;Non-Metazoa;Rhodophyta
+f607c4b3601f03c60b3be0682369c1c4;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;27;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+06eac6d59597463ff836c34ac8d6ac16;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-490;27;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+5a0f5334a5b70c0366325aa58d14836d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;85;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+cfcce1404dbe1e3d7d55da7aa7a0961a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;307;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-490;1018;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+ea8dcb72d2fab14c774fcb7d00621eb0;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;29;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-490;76596;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-490;208;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+7a6f1101537fe0493543274b9887ab33;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;50;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+213a7308afe88b00f4465226cdf730ff;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;62;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+7234b686f2196b7e2d85e812ac74ebf2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;18;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+a3505f3c93f5c0e2815dfe44d66364f8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;306;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+97cf209118ae8cd067f558971f43c3a0;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;95;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+d2852cb2d0864a67854f4f37147bde47;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;91;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+15769ce87a446121c043369e0e4d55e9;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;72;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-492;75606;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+3303192c89f2a52947c6f00ad66a8dfc;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;50;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+964791ebf44a6d2e1012c4a308119c90;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;355;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+2f6cb1a961d81caba4a20dfb49e17e28;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;4136;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+25e8d70434eb76b9a1a0642ba9eed807;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;213;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+cd64555bb915875bed1366a4a3fd8ea5;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;340;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;82273;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+7b879dbf57cd7677f17520defc9c7169;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-498;119;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+1c95aecd4269009763282bdaed8805e2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-498;131;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+060009763fa10673966e3950b9863967;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-498;656;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+8857c3eb06aad07316481c9d6812812f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-498;639;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+7234b686f2196b7e2d85e812ac74ebf2;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-498;28;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+f736fbef9d95e5d5b73d5a39596423a2;Eukaryota;Bacillariophyta;Bacillariophyceae;Fragilariales;Fragilariaceae;Ulnaria;Ulnaria_ulna;PIM-498;17;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+fa77fdf9af4a363732da09f261dd4925;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-498;126;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-498;93140;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+c578acde183b784602d467692f542725;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-499;169;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+d1471914237a586a3f790d886882ac8d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-499;25;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+a652f3edeae648533334eae562397ff1;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-499;490;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-499;75182;Krill;South Bay;RBLC;Non-Metazoa;Diatom
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-108;7;Krill;South Bay;16S;Non-Metazoa;Diatom
+3f8eab272ae6f8d00ea6f71ed3a6389a;Eukaryota;Rhodophyta;Florideophyceae;Palmariales;Palmariaceae;Palmaria;Palmaria_decipiens;PIM-108;14;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-171;7;Krill;South Bay;16S;Non-Metazoa;Diatom
+66a23bb71895005366cf0cd8b6a7ebc5;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-171;5;Krill;South Bay;16S;Non-Metazoa;Diatom
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-173;16;Krill;South Bay;16S;Non-Metazoa;Diatom
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-173;16;Krill;South Bay;16S;Non-Metazoa;Diatom
+3f8eab272ae6f8d00ea6f71ed3a6389a;Eukaryota;Rhodophyta;Florideophyceae;Palmariales;Palmariaceae;Palmaria;Palmaria_decipiens;PIM-173;24;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+762444b0ce004a5d8c1fc2c5f646e6b9;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Haslea;Haslea_silbo;PIM-173;23;Krill;South Bay;16S;Non-Metazoa;Diatom
+9d422c983b884b904eeaa776a4914e18;Eukaryota;Foraminifera;unknown class;Rotaliida;unknown family;Virgulinella;Virgulinella_fragilis;PIM-470;436;Krill;South Bay;16S;Non-Metazoa;SAR
+cb7cd7dd134ae80f0ff87751ea858c17;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-470;6;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+390dc117b37480391d870536f92bbe5c;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_sp._C134;PIM-470;10;Krill;South Bay;16S;Non-Metazoa;Diatom
+d221f6e0e911ea50cab3ac364380a2b3;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-470;10;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-472;15;Krill;South Bay;16S;Non-Metazoa;Diatom
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-472;14;Krill;South Bay;16S;Non-Metazoa;Diatom
+cb7cd7dd134ae80f0ff87751ea858c17;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-472;17;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+e08e6d2ca38ba3240e563786d38c14e2;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-472;18;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-473;8;Krill;South Bay;16S;Non-Metazoa;Diatom
+719024e4dfcf01b5a0ae13cf1ada3800;Eukaryota;Rhodophyta;Florideophyceae;Plocamiales;Plocamiaceae;Plocamium;Plocamium_cartilagineum;PIM-473;43;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+91f0182d80b2ae4e9d7b81c316a4fd8b;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-473;14;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+65dd01fa4e1d31fceee42331e6801fd2;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-473;8;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+3f8eab272ae6f8d00ea6f71ed3a6389a;Eukaryota;Rhodophyta;Florideophyceae;Palmariales;Palmariaceae;Palmaria;Palmaria_decipiens;PIM-485;10;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+e08e6d2ca38ba3240e563786d38c14e2;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-485;14;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+3f8eab272ae6f8d00ea6f71ed3a6389a;Eukaryota;Rhodophyta;Florideophyceae;Palmariales;Palmariaceae;Palmaria;Palmaria_decipiens;PIM-487;36;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-488;6;Krill;South Bay;16S;Non-Metazoa;Diatom
+719024e4dfcf01b5a0ae13cf1ada3800;Eukaryota;Rhodophyta;Florideophyceae;Plocamiales;Plocamiaceae;Plocamium;Plocamium_cartilagineum;PIM-489;4;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+19863b059a75933a046cd7589872156a;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-489;12;Krill;South Bay;16S;Non-Metazoa;Apicomplexa
+3f8eab272ae6f8d00ea6f71ed3a6389a;Eukaryota;Rhodophyta;Florideophyceae;Palmariales;Palmariaceae;Palmaria;Palmaria_decipiens;PIM-492;18;Krill;South Bay;16S;Non-Metazoa;Rhodophyta
+66a23bb71895005366cf0cd8b6a7ebc5;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-493;5;Krill;South Bay;16S;Non-Metazoa;Diatom
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-498;2;Krill;South Bay;16S;Non-Metazoa;Diatom
+f89f04cd67a11a7b771e3ebc3a3386e2;Eukaryota;Bacillariophyta;Mediophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-146;55;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+038cdda8072a7200ef8546a230a771e8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-146;11;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-146;43359;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-146;9;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+62f1c3c90dc502fd74b5399c6df64c16;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_sp.;PIM-146-2;13;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+e0903efc73bb6a6b3777e2ea22110a25;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._radicans_1_SEH-2013;PIM-146-2;12;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-146-2;19555;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-146-2;13;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+c6be4dd50dbbc020524929e692aa033f;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-146-2;16;Salps;Hannah Point;RBLC;Non-Metazoa;Diatom
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema pseudocostatum;PIM-146;78;Salps;Hannah Point;16S;Non-Metazoa;Diatom
+f9469a6b6542190a4b217373d36b5f20;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-146;8;Salps;Hannah Point;16S;Non-Metazoa;Apicomplexa
+12b0150cc90a269bf357dc695c7ef27d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;unknown genus;uncultured Skeletonemataceae;PIM-146;2;Salps;Hannah Point;16S;Non-Metazoa;Diatom
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema pseudocostatum;PIM-146-2;111;Salps;Hannah Point;16S;Non-Metazoa;Diatom
+cb7cd7dd134ae80f0ff87751ea858c17;Eukaryota;Apicomplexa;Conoidasida;Eugregarinorida;Cephaloidophoridae;Cephaloidophora;Cephaloidophora_oradareae;PIM-146-2;32;Salps;Hannah Point;16S;Non-Metazoa;Apicomplexa
+0337c5650e65d67ee1e3aa327a4e93b6;Eukaryota;Foraminifera;unknown class;Rotaliida;Glabratellidae;Planoglabratella;Planoglabratella opercularis;PIM-146-2;9;Salps;Hannah Point;16S;Non-Metazoa;SAR
+014628318ce6711807ee8d2a37943907;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira rotula;PIM-146-2;5;Salps;Hannah Point;16S;Non-Metazoa;Diatom
+1c49157779652ecd95555e6c117251eb;Metazoa;Annelida;Polychaeta;Phyllodocida;Alciopidae;Vanadis;Vanadis formosa;PIM-146-2;3;Salps;Hannah Point;16S;Metazoa;Annelida
+86b682d46557c285d2b21235ac62c9ac;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Sanguina;Sanguina_nivaloides;PIM-239;1879;Snow;Refuge;RBLC;Non-Metazoa;Chlorophyta
+784b9b2d6c20fcc1db1aa10d85ebd483;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_amplectens;PIM-239;1206;Snow;Refuge;RBLC;Non-Metazoa;Diatom
+d4f5c928a8d89f8f0dcf15bbb52f15e8;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Sanguina;Sanguina_nivaloides;PIM-239;10395;Snow;Refuge;RBLC;Non-Metazoa;Chlorophyta
+e082dae449b218443a8e6c3957510531;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Sanguina;Sanguina_nivaloides;PIM-239;502;Snow;Refuge;RBLC;Non-Metazoa;Chlorophyta
+29b437c96e69ec1d90ce39918a7377ce;Eukaryota;Bacillariophyta;Bacillariophyceae;Achnanthales;Achnanthidiaceae;Karayevia;Karayevia_oblongella;PIM-239;312;Snow;Refuge;RBLC;Non-Metazoa;Diatom
+0681b824cc637a148b1ba715b81077bf;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Sanguina;Sanguina_nivaloides;PIM-239;222;Snow;Refuge;RBLC;Non-Metazoa;Chlorophyta
+9bc34676df0646376e50fb9f2bb11bf5;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_amplectens;PIM-239;80;Snow;Refuge;RBLC;Non-Metazoa;Diatom
+4862afa5de0b66347399d09ffb7de1c8;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Sanguina;Sanguina_nivaloides;PIM-239;32;Snow;Refuge;RBLC;Non-Metazoa;Chlorophyta
+270c18c6840e54c9e7435f34f20055ab;Eukaryota;Chlorophyta;Trebouxiophyceae;Prasiolales;Koliellaceae;Raphidonema;Raphidonema_sempervirens;PIM-239;133;Snow;Refuge;RBLC;Non-Metazoa;Chlorophyta
+b6746f15548c34b1e59db8c3e26af51c;Eukaryota;Bacillariophyta;Bacillariophyceae;Achnanthales;Achnanthidiaceae;Achnanthidium;Achnanthidium_subatomus;PIM-238;111;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+6dc3f4ad184abe28aa76aeb4f8143acf;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chloromonas;Chloromonas_sp._ANT3;PIM-238;3467;Snow;Argentinian Cove;RBLC;Non-Metazoa;Chlorophyta
+b400e50fb42d1b8c1db2e3e9b2351f46;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-238;7154;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+d4f5c928a8d89f8f0dcf15bbb52f15e8;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Sanguina;Sanguina_nivaloides;PIM-238;115;Snow;Argentinian Cove;RBLC;Non-Metazoa;Chlorophyta
+388582bba46aa66f02a86c7750453949;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-238;30;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+817c5825e9a32ce3ebf0c027d34ca843;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-238;27;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+117df2de369650da661b79dffb4c4e28;Eukaryota;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonadaceae;Chloromonas;Chloromonas_sp._ANT3;PIM-238;48;Snow;Argentinian Cove;RBLC;Non-Metazoa;Chlorophyta
+3f2bd78474c02d6e01e006891a728605;Eukaryota;Bacillariophyta;Bacillariophyceae;Achnanthales;Achnanthidiaceae;Achnanthidium;Achnanthidium_subatomus;PIM-238;68;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+c888c34615076e96416b7dbf6eba4065;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_aff._fruticosa;PIM-338;1744;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+b400e50fb42d1b8c1db2e3e9b2351f46;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-338;7675;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+64daf968e441b1e721138ac6139c7dc6;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_aff._fruticosa;PIM-338;150;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+6ac4fb0627eb970ae5206de2c4a64fc7;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-338;717;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+b3a421c7475582ae53aaa561f9e91f0c;Eukaryota;Bacillariophyta;Bacillariophyceae;Achnanthales;Achnanthidiaceae;Karayevia;Karayevia_oblongella;PIM-338;228;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+def57e746429d0b06b2686367eaa5a1b;Eukaryota;Bacillariophyta;Bacillariophyceae;Achnanthales;Achnanthidiaceae;Achnanthidium;Achnanthidium_subatomus;PIM-338;270;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+9e485ea75253fd8b993135941e38f893;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-338;78;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+acb59478a885632f4005dc9715886f7b;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-338;290;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+667a75091931c7f88353eb88ce4d3243;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_aff._fruticosa;PIM-338;64;Snow;Argentinian Cove;RBLC;Non-Metazoa;Diatom
+80e16b7f09d85b114c91da0f5c5eb699;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-233;192;Water;False Bay;RBLC;Non-Metazoa;Diatom
+743cf8deceb89cd00834d90e5c2cb415;Eukaryota;Bacillariophyta;Fragilariophyceae;Thalassionematales;Thalassionemataceae;Thalassiothrix;Thalassiothrix_longissima;PIM-233;8;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8857c3eb06aad07316481c9d6812812f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-233;130;Water;False Bay;RBLC;Non-Metazoa;Diatom
+20e61e889927f153f2de3f1bac2d0f83;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_debilis;PIM-233;341;Water;False Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-233;376;Water;False Bay;RBLC;Non-Metazoa;Diatom
+a29f512f734099e280b7f0f766b0ffdb;Eukaryota;Bacillariophyta;Fragilariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_cryptotenella;PIM-233;15;Water;False Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-233;7926;Water;False Bay;RBLC;Non-Metazoa;Diatom
+be860514fb1aea9f1534b4775559c7ac;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Gomphonemataceae;Gomphonema;Gomphonema_pumilum_var._rigidum;PIM-233;29;Water;False Bay;RBLC;Non-Metazoa;Diatom
+dae611ab2f4439ca59a53857d216c3a3;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-233;83;Water;False Bay;RBLC;Non-Metazoa;Diatom
+33ad0a22f86e339c01e900d170ffc198;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_tumida;PIM-233;13;Water;False Bay;RBLC;Non-Metazoa;Diatom
+e1ac83789bc3e5534f356fa5c8e17186;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-233;136;Water;False Bay;RBLC;Non-Metazoa;Diatom
+9913089723dda8715398fbd44c05536a;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-233;60;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8c3f6984867e989f8ac3add1a174d074;Eukaryota;Bacillariophyta;Mediophyceae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia_antarctica;PIM-233;19;Water;False Bay;RBLC;Non-Metazoa;Diatom
+84eb7bf8aa7f403400747b5ce1b6d5f4;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._convolutus;PIM-233;9;Water;False Bay;RBLC;Non-Metazoa;Diatom
+2fd9f5140498c6ace81256434d88f559;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-233;8;Water;False Bay;RBLC;Non-Metazoa;Diatom
+3c2f7e30d72c0bf21f824aa1af833586;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-233;505;Water;False Bay;RBLC;Non-Metazoa;Diatom
+082dd0ac825ed60191f04c2ff66cc73f;Eukaryota;Ochrophyta;Phaeophyceae;Ectocarpales;Adenocystaceae;Adenocystis;Adenocystis_utricularis;PIM-233;10;Water;False Bay;RBLC;Non-Metazoa;Ochrophyta
+5645806302272782c65f55de0fdca22f;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_sp.;PIM-233;19;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8ca4e181dd706f80c3f3821d7c03afad;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-233;53;Water;False Bay;RBLC;Non-Metazoa;Diatom
+bcf682f2aef79cca4b91177b86932cc5;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-233;6;Water;False Bay;RBLC;Non-Metazoa;Diatom
+c8bcb6faa29c19f2cf5435069b48c6c7;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-233;11;Water;False Bay;RBLC;Non-Metazoa;Diatom
+cf8ae7726873d85cc8d16ccbfad00f72;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-233;70;Water;False Bay;RBLC;Non-Metazoa;Diatom
+c6028bb0385466b98fa63d5af4c6c09a;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._convolutus;PIM-233;13;Water;False Bay;RBLC;Non-Metazoa;Diatom
+0e5f4ca045eb033543d7d7b09d35b5b8;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-233;228;Water;False Bay;RBLC;Non-Metazoa;Diatom
+61b1c2a58b41ab24b0aae603d2213ee0;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-233;260;Water;False Bay;RBLC;Non-Metazoa;Diatom
+9f52c13f716d589050e4b2c8bd8dd983;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-233;38;Water;False Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-233;1544;Water;False Bay;RBLC;Non-Metazoa;Diatom
+c6be4dd50dbbc020524929e692aa033f;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-233;5;Water;False Bay;RBLC;Non-Metazoa;Diatom
+80e16b7f09d85b114c91da0f5c5eb699;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-344;42;Water;False Bay;RBLC;Non-Metazoa;Diatom
+776e73b83b4f38828fa9e5be46aa278f;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._convolutus;PIM-344;9;Water;False Bay;RBLC;Non-Metazoa;Diatom
+743cf8deceb89cd00834d90e5c2cb415;Eukaryota;Bacillariophyta;Fragilariophyceae;Thalassionematales;Thalassionemataceae;Thalassiothrix;Thalassiothrix_longissima;PIM-344;19;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8857c3eb06aad07316481c9d6812812f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-344;12650;Water;False Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-344;2952;Water;False Bay;RBLC;Non-Metazoa;Diatom
+6259016121923d91bef86343bc474d24;Eukaryota;Bacillariophyta;Fragilariophyceae;Surirellales;Surirellaceae;Stenopterobia;Stenopterobia_sp._1_Atlas_Réunion_2019;PIM-344;7;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8ca4e181dd706f80c3f3821d7c03afad;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-344;7503;Water;False Bay;RBLC;Non-Metazoa;Diatom
+c8bcb6faa29c19f2cf5435069b48c6c7;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-344;59;Water;False Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-344;13;Water;False Bay;RBLC;Non-Metazoa;Diatom
+80e16b7f09d85b114c91da0f5c5eb699;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-371;90;Water;False Bay;RBLC;Non-Metazoa;Diatom
+4977868a448a768806c5462a31ac066f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-371;73;Water;False Bay;RBLC;Non-Metazoa;Diatom
+776e73b83b4f38828fa9e5be46aa278f;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._convolutus;PIM-371;31;Water;False Bay;RBLC;Non-Metazoa;Diatom
+607fd2f72818e88a2f9f91960208eecd;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Pleurosigmataceae;Gyrosigma;Gyrosigma_sciotense;PIM-371;31;Water;False Bay;RBLC;Non-Metazoa;Diatom
+ee8258141dfc8fa33f2c182e39a0a441;Eukaryota;Bacillariophyta;Fragilariophyceae;Fragilariales;Fragilariaceae;Synedropsis;Synedropsis_cf._recta;PIM-371;15;Water;False Bay;RBLC;Non-Metazoa;Diatom
+1b36a8a93e5c3e0b1e4646b60fa15037;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_escambia;PIM-371;13;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8857c3eb06aad07316481c9d6812812f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-371;168;Water;False Bay;RBLC;Non-Metazoa;Diatom
+20e61e889927f153f2de3f1bac2d0f83;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_debilis;PIM-371;146;Water;False Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-371;2014;Water;False Bay;RBLC;Non-Metazoa;Diatom
+9b3633104d4760b7aaf35e34d0f8eb44;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-371;25;Water;False Bay;RBLC;Non-Metazoa;Diatom
+a29f512f734099e280b7f0f766b0ffdb;Eukaryota;Bacillariophyta;Fragilariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_cryptotenella;PIM-371;30;Water;False Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-371;18757;Water;False Bay;RBLC;Non-Metazoa;Diatom
+be860514fb1aea9f1534b4775559c7ac;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Gomphonemataceae;Gomphonema;Gomphonema_pumilum_var._rigidum;PIM-371;212;Water;False Bay;RBLC;Non-Metazoa;Diatom
+dae611ab2f4439ca59a53857d216c3a3;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-371;60;Water;False Bay;RBLC;Non-Metazoa;Diatom
+4bfd63da54f679dea85646e554a8e0fb;Eukaryota;Rhodophyta;Bangiophyceae;Bangiales;Bangiaceae;Bangia;Bangia_atropurpurea;PIM-371;38;Water;False Bay;RBLC;Non-Metazoa;Rhodophyta
+1556ad3ea46012e352754d1db8e96d5c;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-371;50;Water;False Bay;RBLC;Non-Metazoa;Diatom
+af04efc1ed1dd545009a745847d9cf71;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-371;30;Water;False Bay;RBLC;Non-Metazoa;Diatom
+49210b543dad577568e1ca4647406d15;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_cf._convolutus;PIM-371;19;Water;False Bay;RBLC;Non-Metazoa;Diatom
+899e37dc77545fd367963fda98a01f5e;Eukaryota;Bacillariophyta;Bacillariophyceae;Cymbellales;Gomphonemataceae;Gomphonella;Gomphonella_olivaceoides;PIM-371;134;Water;False Bay;RBLC;Non-Metazoa;Diatom
+3c2f7e30d72c0bf21f824aa1af833586;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-371;1292;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8ca4e181dd706f80c3f3821d7c03afad;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-371;29;Water;False Bay;RBLC;Non-Metazoa;Diatom
+0e5f4ca045eb033543d7d7b09d35b5b8;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-371;1867;Water;False Bay;RBLC;Non-Metazoa;Diatom
+61b1c2a58b41ab24b0aae603d2213ee0;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-371;594;Water;False Bay;RBLC;Non-Metazoa;Diatom
+62f9b1a0802d77be61900d59c997e17c;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_sp._BOLD:AAX5147;PIM-371;42;Water;False Bay;RBLC;Non-Metazoa;Diatom
+ab27b344f4ef7bf0a3d7472bf69a650c;Eukaryota;Bacillariophyta;Bacillariophyceae;Cymbellales;Gomphonemataceae;Gomphonella;Gomphonella_olivaceoides;PIM-371;61;Water;False Bay;RBLC;Non-Metazoa;Diatom
+42ee4b609a28844379c4cc70cec53309;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-371;254;Water;False Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-371;1828;Water;False Bay;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-371;41;Water;False Bay;RBLC;Non-Metazoa;Diatom
+8dbf20e7950d70f11230251efef40d7c;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-198;25;Water;South Bay;RBLC;Non-Metazoa;Diatom
+ecd25b404d26d192acbd3b5385bfe021;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-198;1108;Water;South Bay;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-198;2498;Water;South Bay;RBLC;Non-Metazoa;Diatom
+4077efa001baaa27b5936ca40b7d89fd;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-198;789;Water;South Bay;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-198;3290;Water;South Bay;RBLC;Non-Metazoa;Diatom
+472e7a6823fddcb320cd5dd2b2a4a430;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-198;221;Water;South Bay;RBLC;Non-Metazoa;Diatom
+0cac3cb74f0e04fbbb15f807208f6143;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_antarctica;PIM-198;18;Water;South Bay;RBLC;Non-Metazoa;Diatom
+da71ba3723b88b3b509a937a88152964;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Melosirales;Melosiraceae;Melosira;Melosira_moniliformis;PIM-198;43;Water;South Bay;RBLC;Non-Metazoa;Diatom
+3d8ec510cb493722b6cbb8aa3801faf1;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-198;929;Water;South Bay;RBLC;Non-Metazoa;Diatom
+a3505f3c93f5c0e2815dfe44d66364f8;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-198;3025;Water;South Bay;RBLC;Non-Metazoa;Diatom
+306b52995838db227b4844a6b497d10f;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-198;201;Water;South Bay;RBLC;Non-Metazoa;Diatom
+74e3aa420958390699e036bf4205efcb;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-198;919;Water;South Bay;RBLC;Non-Metazoa;Diatom
+0e5f4ca045eb033543d7d7b09d35b5b8;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-198;3008;Water;South Bay;RBLC;Non-Metazoa;Diatom
+61b1c2a58b41ab24b0aae603d2213ee0;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-198;2802;Water;South Bay;RBLC;Non-Metazoa;Diatom
+8f7b34c61eaced36a44dfc6974f374a0;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Melosirales;Melosiraceae;Melosira;Melosira_moniliformis;PIM-198;38;Water;South Bay;RBLC;Non-Metazoa;Diatom
+dcb662c447f53fff1914a5138dd58b28;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-198;121;Water;South Bay;RBLC;Non-Metazoa;Diatom
+cc20bacc27a10e6b2e69e398abf57593;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-198;89;Water;South Bay;RBLC;Non-Metazoa;Diatom
+337f5cc4058bfc07a60413917a28a7af;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-198;70;Water;South Bay;RBLC;Non-Metazoa;Diatom
+4a53fe78d969ff023314089b474c8a50;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-198;89;Water;South Bay;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-198;3223;Water;South Bay;RBLC;Non-Metazoa;Diatom
+4349867b1762739595851325cad8cf59;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Pseudo-nitzschia;Pseudo-nitzschia_subcurvata;PIM-225;10;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+80e16b7f09d85b114c91da0f5c5eb699;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-225;401;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+4977868a448a768806c5462a31ac066f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-225;35;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+607fd2f72818e88a2f9f91960208eecd;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Pleurosigmataceae;Gyrosigma;Gyrosigma_sciotense;PIM-225;37;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+743cf8deceb89cd00834d90e5c2cb415;Eukaryota;Bacillariophyta;Fragilariophyceae;Thalassionematales;Thalassionemataceae;Thalassiothrix;Thalassiothrix_longissima;PIM-225;9;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+79d16d00a4e178f73297217384ca70a0;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Coscinodiscales;Hemidiscaceae;Actinocyclus;Actinocyclus_actinochilus;PIM-225;45;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+8857c3eb06aad07316481c9d6812812f;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Cymbellaceae;Cymbella;Cymbella_tropica;PIM-225;116;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+20e61e889927f153f2de3f1bac2d0f83;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_debilis;PIM-225;435;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+455c9ea5aeef98aea77640462843fd4f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-225;657;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+61f9e5d5ce7c3a8715a3d9b65d6d758d;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Shionodiscus;Shionodiscus_ritscheri;PIM-225;11246;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+be860514fb1aea9f1534b4775559c7ac;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Gomphonemataceae;Gomphonema;Gomphonema_pumilum_var._rigidum;PIM-225;72;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+dae611ab2f4439ca59a53857d216c3a3;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-225;28;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+e1ac83789bc3e5534f356fa5c8e17186;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-225;110;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+f43949dc97522cc7c268ce0662d86740;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-225;17;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+9913089723dda8715398fbd44c05536a;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_incarum;PIM-225;64;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+9d3d6fbb757cf79f4379a88dd3b66319;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_tumida;PIM-225;53;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+8c3f6984867e989f8ac3add1a174d074;Eukaryota;Bacillariophyta;Mediophyceae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia_antarctica;PIM-225;27;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+899e37dc77545fd367963fda98a01f5e;Eukaryota;Bacillariophyta;Bacillariophyceae;Cymbellales;Gomphonemataceae;Gomphonella;Gomphonella_olivaceoides;PIM-225;154;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+3c2f7e30d72c0bf21f824aa1af833586;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-225;405;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+8ca4e181dd706f80c3f3821d7c03afad;Eukaryota;Bacillariophyta;Mediophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_atlanticus;PIM-225;18;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+c8bcb6faa29c19f2cf5435069b48c6c7;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-225;9;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+cf8ae7726873d85cc8d16ccbfad00f72;Eukaryota;Bacillariophyta;Fragilariophyceae;Bacillariales;Bacillariaceae;Nitzschia;Nitzschia_fonticola;PIM-225;36;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+0e5f4ca045eb033543d7d7b09d35b5b8;Eukaryota;Bacillariophyta;Bacillariophyceae;Rhopalodiales;Rhopalodiaceae;Epithemia;Epithemia_sp.1;PIM-225;583;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+61b1c2a58b41ab24b0aae603d2213ee0;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_curta;PIM-225;351;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+86a62137e86bb015a6f869c09d41750e;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Naviculaceae;Navicula;Navicula_glaciei;PIM-225;50;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+53f9e851d7ec5bb3fe13612f8850fd8f;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Conticribra;Conticribra_guillardii;PIM-225;11;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+42ee4b609a28844379c4cc70cec53309;Eukaryota;Bacillariophyta;Fragilariophyceae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia;Rhoicosphenia_abbreviata;PIM-225;10;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+e31fc5e306df1d35d7156e975c21975f;Eukaryota;Bacillariophyta;Bacillariophyceae;Naviculales;Berkeleyaceae;Berkeleya;Berkeleya_rutilans;PIM-225;20;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+58f355c7e8076b6847bd61c600c75e9a;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-225;2159;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+c7ee4b7f1e9778492ebe243362128af6;Eukaryota;Bacillariophyta;Fragilariophyceae;Melosirales;Melosiraceae;Melosira;Melosira_varians;PIM-225;11;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+410342bf1916fcb64bb4f62fa0b3cc44;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;6504;Water;False Bay;RBLC;Bacteria;Not classified
+1d61b04256c52a5c77dea3012735285a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;2935;Water;False Bay;RBLC;Bacteria;Not classified
+ff581c00dc3966b25d46a2e627dc18df;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;4823;Water;False Bay;RBLC;Bacteria;Not classified
+8881f65a897c82f01d9a49ebbb2ad5c6;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;2108;Water;False Bay;RBLC;Bacteria;Not classified
+8ddfd2cef80a562a1e866f8b6e60d68b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;662;Water;False Bay;RBLC;Bacteria;Not classified
+ce8f85c31e45702549fbdf0a40fa7628;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;2714;Water;False Bay;RBLC;Bacteria;Not classified
+62f62598717f2452a82e730b323b1463;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;2964;Water;False Bay;RBLC;Bacteria;Not classified
+3189a9e4c0ae9b6d8d9dfbaa37423da7;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;2235;Water;False Bay;RBLC;Bacteria;Not classified
+0c80f6ef12d719a3dea6843b08e51b87;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;3048;Water;False Bay;RBLC;Bacteria;Not classified
+bc909be0b3ebb045f351fa4513ed2569;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;55;Water;False Bay;RBLC;Bacteria;Not classified
+d48e319a70cb2aca445d69926a5188ec;Eukaryota;unknown phylum;Dinophyceae;Dinophysiales;Dinophysiaceae;unknown genus;uncultured_Phalacroma;PIM-233;1733;Water;False Bay;RBLC;Non-Metazoa;Dinoflagellata
+adafa1057263d111bfbe8e63a07aa988;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;1781;Water;False Bay;RBLC;Bacteria;Not classified
+55af43903f7d1903034647adc68c5b32;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;1322;Water;False Bay;RBLC;Bacteria;Not classified
+6cbe96f19c04bb5957c528890922007c;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;1272;Water;False Bay;RBLC;Bacteria;Not classified
+27b3d37d4be2af7056d08da494b32cd0;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;1069;Water;False Bay;RBLC;Non-Metazoa;Not classified
+d53ba44dbfca9c98eb9bed92bef22566;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;1113;Water;False Bay;RBLC;Bacteria;Not classified
+acaac6562663ea3065d0b3dc46e1278a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;1159;Water;False Bay;RBLC;Bacteria;Not classified
+1b973538e883bc9693e3f144479b0cf6;Eukaryota;Gyrista;Dictyochophyceae;Florenciellales;unknown family;Florenciella;Florenciella_parvula;PIM-233;654;Water;False Bay;RBLC;Non-Metazoa;SAR
+a77f7a7463688c0b65097f8708b00648;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;1095;Water;False Bay;RBLC;Bacteria;Not classified
+cee9d6dfec920bf46a70c1caa2305973;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;573;Water;False Bay;RBLC;Bacteria;Not classified
+d9752b14fbdf4535289f3a1ee4beaa2b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;507;Water;False Bay;RBLC;Bacteria;Not classified
+7bc6ac717c38e72780c1113a7a90a2fa;Eukaryota;Gyrista;Bolidophyceae;Parmales;Triparmaceae;Triparma;Triparma_laevis;PIM-233;305;Water;False Bay;RBLC;Non-Metazoa;SAR
+76476c05f4c99edb255cf69397b142f3;Eukaryota;Ochrophyta;Phaeophyceae;Desmarestiales;Desmarestiaceae;Desmarestia;Desmarestia_aculeata;PIM-233;82;Water;False Bay;RBLC;Non-Metazoa;Ochrophyta
+a7d17169ebb89bbde5d1f95b877162a8;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;285;Water;False Bay;RBLC;Non-Metazoa;Not classified
+913ed1033e5d6a7a81ae2ffd31e9b8dc;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;377;Water;False Bay;RBLC;Bacteria;Not classified
+5cc4e6fd2221d80dcf19ff64b18ddd18;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;367;Water;False Bay;RBLC;Bacteria;Not classified
+51f64ac45c6745968cc0b797186270df;unknown kingdom;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_organism;PIM-233;342;Water;False Bay;RBLC;Not classified;Not classified
+ee31198a55deadd83e1fb891f95627ed;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;143;Water;False Bay;RBLC;Non-Metazoa;Not classified
+b10a50d9b4e98f2f72ee41d3374f01ee;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;111;Water;False Bay;RBLC;Non-Metazoa;Not classified
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-233;72;Water;False Bay;RBLC;Non-Metazoa;Diatom
+29d4ae959d5489aec77fa25635b67029;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;213;Water;False Bay;RBLC;Bacteria;Not classified
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-233;5;Water;False Bay;RBLC;Non-Metazoa;Diatom
+caacfd0d026b52a45231f3250b099d87;Bacteria;Cyanobacteria;unknown class;unknown order;unknown family;unknown genus;uncultured_cyanobacterium;PIM-233;38;Water;False Bay;RBLC;Bacteria;Cyanobacteria
+2831cec537ef218fccf61e811ef812fb;Eukaryota;Chlorophyta;unknown class;unknown order;unknown family;unknown genus;uncultured_Chlorophyta;PIM-233;131;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+04a148aa4b51275b370ca14fcf3f5edd;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;71;Water;False Bay;RBLC;Bacteria;Not classified
+792c29d74bc52b18452f4036f31a88cd;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;138;Water;False Bay;RBLC;Bacteria;Not classified
+b20702a5347c03bdb7ea90d06129f226;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;129;Water;False Bay;RBLC;Non-Metazoa;Not classified
+eef7645eb5029591c64cff9471e8017b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;103;Water;False Bay;RBLC;Bacteria;Not classified
+25556fa8dfd10ed551e38c9e1ef309a5;Eukaryota;Bacillariophyta;Mediophyceae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia_antarctica;PIM-233;92;Water;False Bay;RBLC;Non-Metazoa;Diatom
+6de378fbb70f2b6aa0ea6a55b5b70fc3;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;53;Water;False Bay;RBLC;Bacteria;Not classified
+7f26e65058f51bc154b4f7f867c5e1d5;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;145;Water;False Bay;RBLC;Non-Metazoa;Not classified
+175f9c8da337f9dacb21e62ae553d3a0;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-233;83;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+fa068776abfedb7ceed56ee293a62ff3;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;123;Water;False Bay;RBLC;Bacteria;Not classified
+7aff1385ba902bfc97eee4b59430e7e7;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;92;Water;False Bay;RBLC;Bacteria;Not classified
+28710bae72fb3d72c3e8e13cb981c12a;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-233;30;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+af3bb491baec81bdf499e3f361bb9008;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;14;Water;False Bay;RBLC;Bacteria;Not classified
+b3a9a8d1e0938dab353fd0c9d13e4f35;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;52;Water;False Bay;RBLC;Bacteria;Not classified
+22844dfa46cd54e1fff8609220b7f35d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;50;Water;False Bay;RBLC;Bacteria;Not classified
+007623e5875c49669c858aa83511f960;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-233;24;Water;False Bay;RBLC;Non-Metazoa;Cryptophyta
+1d62c339ad11accb4f26a92be0c8af34;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;102;Water;False Bay;RBLC;Bacteria;Not classified
+0425ce803b3496d05f8873392756e76d;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_phototrophic_eukaryote;PIM-233;37;Water;False Bay;RBLC;Non-Metazoa;Not classified
+7921402317f7639755c618bc5d00e20e;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;50;Water;False Bay;RBLC;Non-Metazoa;Not classified
+d3c6b39088ab500bfd757846504dc5e0;Eukaryota;Ciliophora;Spirotrichea;Tintinnida;unknown family;unknown genus;uncultured_Tintinnida;PIM-233;14;Water;False Bay;RBLC;Non-Metazoa;SAR
+be7047d46448269e38ff60ce7520171d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;41;Water;False Bay;RBLC;Bacteria;Not classified
+19e4dc5ca1210b89587f8fd7de97c064;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;51;Water;False Bay;RBLC;Bacteria;Not classified
+390dc117b37480391d870536f92bbe5c;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Chaetocerotales;Chaetocerotaceae;Chaetoceros;Chaetoceros_sp._C134;PIM-233;43;Water;False Bay;RBLC;Non-Metazoa;Diatom
+d062850b7e39901ba8a5a688c3dde509;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;24;Water;False Bay;RBLC;Bacteria;Not classified
+645234de8f52277e5250be5670dfb93e;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-233;28;Water;False Bay;RBLC;Non-Metazoa;Cryptophyta
+12e3899f1ea3abd2cf7cd164303f43ad;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;7;Water;False Bay;RBLC;Non-Metazoa;Not classified
+5f39bdd46e855d335e960f2beba99e7a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;35;Water;False Bay;RBLC;Bacteria;Not classified
+cd11ea8f66edaa37892ee8f0c66a2aaa;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;PIM-233;5;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+2b97dc6874950a3c0f4d13744759a877;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;6;Water;False Bay;RBLC;Non-Metazoa;Not classified
+d09fea7e5750a383102495840b42a3a5;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_bacterium;PIM-233;5;Water;False Bay;RBLC;Bacteria;Not classified
+925b5e95d25e1296a2660beba3db2bd6;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-233;4;Water;False Bay;RBLC;Non-Metazoa;Cryptophyta
+402b966c084f4aeb9d8a079ae8915c31;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-233;4;Water;False Bay;RBLC;Non-Metazoa;Not classified
+0d71f479e0834f3591b10b3535d55801;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-233;3;Water;False Bay;RBLC;Bacteria;Not classified
+410342bf1916fcb64bb4f62fa0b3cc44;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;6920;Water;False Bay;RBLC;Bacteria;Not classified
+1d61b04256c52a5c77dea3012735285a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;4441;Water;False Bay;RBLC;Bacteria;Not classified
+ff581c00dc3966b25d46a2e627dc18df;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;2252;Water;False Bay;RBLC;Bacteria;Not classified
+8881f65a897c82f01d9a49ebbb2ad5c6;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;2870;Water;False Bay;RBLC;Bacteria;Not classified
+8ddfd2cef80a562a1e866f8b6e60d68b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;5188;Water;False Bay;RBLC;Bacteria;Not classified
+ce8f85c31e45702549fbdf0a40fa7628;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;1892;Water;False Bay;RBLC;Bacteria;Not classified
+62f62598717f2452a82e730b323b1463;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;1557;Water;False Bay;RBLC;Bacteria;Not classified
+3189a9e4c0ae9b6d8d9dfbaa37423da7;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;1901;Water;False Bay;RBLC;Bacteria;Not classified
+0c80f6ef12d719a3dea6843b08e51b87;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;623;Water;False Bay;RBLC;Bacteria;Not classified
+bc909be0b3ebb045f351fa4513ed2569;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;59;Water;False Bay;RBLC;Bacteria;Not classified
+d48e319a70cb2aca445d69926a5188ec;Eukaryota;unknown phylum;Dinophyceae;Dinophysiales;Dinophysiaceae;unknown genus;uncultured_Phalacroma;PIM-371;1658;Water;False Bay;RBLC;Non-Metazoa;Dinoflagellata
+adafa1057263d111bfbe8e63a07aa988;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;1184;Water;False Bay;RBLC;Bacteria;Not classified
+55af43903f7d1903034647adc68c5b32;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;499;Water;False Bay;RBLC;Bacteria;Not classified
+6cbe96f19c04bb5957c528890922007c;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;941;Water;False Bay;RBLC;Bacteria;Not classified
+27b3d37d4be2af7056d08da494b32cd0;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;1287;Water;False Bay;RBLC;Non-Metazoa;Not classified
+d53ba44dbfca9c98eb9bed92bef22566;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;1189;Water;False Bay;RBLC;Bacteria;Not classified
+acaac6562663ea3065d0b3dc46e1278a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;1037;Water;False Bay;RBLC;Bacteria;Not classified
+1b973538e883bc9693e3f144479b0cf6;Eukaryota;Gyrista;Dictyochophyceae;Florenciellales;unknown family;Florenciella;Florenciella_parvula;PIM-371;1241;Water;False Bay;RBLC;Non-Metazoa;SAR
+a77f7a7463688c0b65097f8708b00648;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;614;Water;False Bay;RBLC;Bacteria;Not classified
+cee9d6dfec920bf46a70c1caa2305973;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;771;Water;False Bay;RBLC;Bacteria;Not classified
+d9752b14fbdf4535289f3a1ee4beaa2b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;327;Water;False Bay;RBLC;Bacteria;Not classified
+7bc6ac717c38e72780c1113a7a90a2fa;Eukaryota;Gyrista;Bolidophyceae;Parmales;Triparmaceae;Triparma;Triparma_laevis;PIM-371;251;Water;False Bay;RBLC;Non-Metazoa;SAR
+76476c05f4c99edb255cf69397b142f3;Eukaryota;Ochrophyta;Phaeophyceae;Desmarestiales;Desmarestiaceae;Desmarestia;Desmarestia_aculeata;PIM-371;50;Water;False Bay;RBLC;Non-Metazoa;Ochrophyta
+a7d17169ebb89bbde5d1f95b877162a8;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;349;Water;False Bay;RBLC;Non-Metazoa;Not classified
+913ed1033e5d6a7a81ae2ffd31e9b8dc;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;251;Water;False Bay;RBLC;Bacteria;Not classified
+5cc4e6fd2221d80dcf19ff64b18ddd18;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;123;Water;False Bay;RBLC;Bacteria;Not classified
+51f64ac45c6745968cc0b797186270df;unknown kingdom;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_organism;PIM-371;106;Water;False Bay;RBLC;Not classified;Not classified
+ee31198a55deadd83e1fb891f95627ed;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;262;Water;False Bay;RBLC;Non-Metazoa;Not classified
+b10a50d9b4e98f2f72ee41d3374f01ee;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;239;Water;False Bay;RBLC;Non-Metazoa;Not classified
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-371;169;Water;False Bay;RBLC;Non-Metazoa;Diatom
+29d4ae959d5489aec77fa25635b67029;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;50;Water;False Bay;RBLC;Bacteria;Not classified
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-371;20;Water;False Bay;RBLC;Non-Metazoa;Diatom
+caacfd0d026b52a45231f3250b099d87;Bacteria;Cyanobacteria;unknown class;unknown order;unknown family;unknown genus;uncultured_cyanobacterium;PIM-371;176;Water;False Bay;RBLC;Bacteria;Cyanobacteria
+2831cec537ef218fccf61e811ef812fb;Eukaryota;Chlorophyta;unknown class;unknown order;unknown family;unknown genus;uncultured_Chlorophyta;PIM-371;97;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+b32fa3c9f172688b2b638a8d3d9e3c91;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;44;Water;False Bay;RBLC;Bacteria;Not classified
+04a148aa4b51275b370ca14fcf3f5edd;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;92;Water;False Bay;RBLC;Bacteria;Not classified
+b20702a5347c03bdb7ea90d06129f226;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;93;Water;False Bay;RBLC;Non-Metazoa;Not classified
+eef7645eb5029591c64cff9471e8017b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;43;Water;False Bay;RBLC;Bacteria;Not classified
+25556fa8dfd10ed551e38c9e1ef309a5;Eukaryota;Bacillariophyta;Mediophyceae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia_antarctica;PIM-371;54;Water;False Bay;RBLC;Non-Metazoa;Diatom
+6de378fbb70f2b6aa0ea6a55b5b70fc3;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;122;Water;False Bay;RBLC;Bacteria;Not classified
+175f9c8da337f9dacb21e62ae553d3a0;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-371;110;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+7aff1385ba902bfc97eee4b59430e7e7;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;82;Water;False Bay;RBLC;Bacteria;Not classified
+c699c09824f9254b56d7fd79323c09e2;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;102;Water;False Bay;RBLC;Non-Metazoa;Not classified
+28710bae72fb3d72c3e8e13cb981c12a;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-371;79;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+af3bb491baec81bdf499e3f361bb9008;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;96;Water;False Bay;RBLC;Bacteria;Not classified
+b3a9a8d1e0938dab353fd0c9d13e4f35;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;59;Water;False Bay;RBLC;Bacteria;Not classified
+22844dfa46cd54e1fff8609220b7f35d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;38;Water;False Bay;RBLC;Bacteria;Not classified
+007623e5875c49669c858aa83511f960;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-371;83;Water;False Bay;RBLC;Non-Metazoa;Cryptophyta
+3f8eab272ae6f8d00ea6f71ed3a6389a;Eukaryota;Rhodophyta;Florideophyceae;Palmariales;Palmariaceae;Palmaria;Palmaria_decipiens;PIM-371;14;Water;False Bay;RBLC;Non-Metazoa;Rhodophyta
+ef2a482b80ed97ea254f8e303103085d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;46;Water;False Bay;RBLC;Bacteria;Not classified
+0425ce803b3496d05f8873392756e76d;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_phototrophic_eukaryote;PIM-371;28;Water;False Bay;RBLC;Non-Metazoa;Not classified
+7921402317f7639755c618bc5d00e20e;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;25;Water;False Bay;RBLC;Non-Metazoa;Not classified
+d3c6b39088ab500bfd757846504dc5e0;Eukaryota;Ciliophora;Spirotrichea;Tintinnida;unknown family;unknown genus;uncultured_Tintinnida;PIM-371;52;Water;False Bay;RBLC;Non-Metazoa;SAR
+be7047d46448269e38ff60ce7520171d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;45;Water;False Bay;RBLC;Bacteria;Not classified
+3b22930f876c23a283b49170bbd10968;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-371;54;Water;False Bay;RBLC;Non-Metazoa;Cryptophyta
+d062850b7e39901ba8a5a688c3dde509;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;12;Water;False Bay;RBLC;Bacteria;Not classified
+12e3899f1ea3abd2cf7cd164303f43ad;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-371;18;Water;False Bay;RBLC;Non-Metazoa;Not classified
+cd11ea8f66edaa37892ee8f0c66a2aaa;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;PIM-371;11;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+98b24829ab71d51cbd5f6083b4604759;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;13;Water;False Bay;RBLC;Bacteria;Not classified
+f10d71a2ebed892e1878730fa6ba8d96;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-371;26;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+cc91bce462f66c35b0e162b0fcce26fb;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;13;Water;False Bay;RBLC;Bacteria;Not classified
+51a36611e36fa938d518985256bbf828;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;8;Water;False Bay;RBLC;Bacteria;Not classified
+0d3e40e1347efd0bc226cc4f1143b8e6;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-371;6;Water;False Bay;RBLC;Non-Metazoa;Diatom
+7c748706d1cc9677d333e635ebd52d15;Eukaryota;Chlorophyta;Pyramimonadophyceae;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas_sp._RCC2015;PIM-371;3;Water;False Bay;RBLC;Non-Metazoa;Chlorophyta
+44514f52c85eb867663802ae662b6b40;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;3;Water;False Bay;RBLC;Bacteria;Not classified
+3ea3ac0c89a33500de7b289d476d484b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-371;2;Water;False Bay;RBLC;Bacteria;Not classified
+410342bf1916fcb64bb4f62fa0b3cc44;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;3327;Water;Miers Bluff;RBLC;Bacteria;Not classified
+1d61b04256c52a5c77dea3012735285a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;2102;Water;Miers Bluff;RBLC;Bacteria;Not classified
+ff581c00dc3966b25d46a2e627dc18df;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;2431;Water;Miers Bluff;RBLC;Bacteria;Not classified
+8881f65a897c82f01d9a49ebbb2ad5c6;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;1548;Water;Miers Bluff;RBLC;Bacteria;Not classified
+8ddfd2cef80a562a1e866f8b6e60d68b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;429;Water;Miers Bluff;RBLC;Bacteria;Not classified
+ce8f85c31e45702549fbdf0a40fa7628;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;1281;Water;Miers Bluff;RBLC;Bacteria;Not classified
+62f62598717f2452a82e730b323b1463;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;1339;Water;Miers Bluff;RBLC;Bacteria;Not classified
+3189a9e4c0ae9b6d8d9dfbaa37423da7;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;1052;Water;Miers Bluff;RBLC;Bacteria;Not classified
+0c80f6ef12d719a3dea6843b08e51b87;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;1442;Water;Miers Bluff;RBLC;Bacteria;Not classified
+bc909be0b3ebb045f351fa4513ed2569;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;37;Water;Miers Bluff;RBLC;Bacteria;Not classified
+d48e319a70cb2aca445d69926a5188ec;Eukaryota;unknown phylum;Dinophyceae;Dinophysiales;Dinophysiaceae;unknown genus;uncultured_Phalacroma;PIM-225;946;Water;Miers Bluff;RBLC;Non-Metazoa;Dinoflagellata
+adafa1057263d111bfbe8e63a07aa988;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;1012;Water;Miers Bluff;RBLC;Bacteria;Not classified
+55af43903f7d1903034647adc68c5b32;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;841;Water;Miers Bluff;RBLC;Bacteria;Not classified
+6cbe96f19c04bb5957c528890922007c;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;742;Water;Miers Bluff;RBLC;Bacteria;Not classified
+27b3d37d4be2af7056d08da494b32cd0;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;840;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+d53ba44dbfca9c98eb9bed92bef22566;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;604;Water;Miers Bluff;RBLC;Bacteria;Not classified
+acaac6562663ea3065d0b3dc46e1278a;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;423;Water;Miers Bluff;RBLC;Bacteria;Not classified
+1b973538e883bc9693e3f144479b0cf6;Eukaryota;Gyrista;Dictyochophyceae;Florenciellales;unknown family;Florenciella;Florenciella_parvula;PIM-225;342;Water;Miers Bluff;RBLC;Non-Metazoa;SAR
+a77f7a7463688c0b65097f8708b00648;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;475;Water;Miers Bluff;RBLC;Bacteria;Not classified
+cee9d6dfec920bf46a70c1caa2305973;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;287;Water;Miers Bluff;RBLC;Bacteria;Not classified
+d9752b14fbdf4535289f3a1ee4beaa2b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;306;Water;Miers Bluff;RBLC;Bacteria;Not classified
+7bc6ac717c38e72780c1113a7a90a2fa;Eukaryota;Gyrista;Bolidophyceae;Parmales;Triparmaceae;Triparma;Triparma_laevis;PIM-225;166;Water;Miers Bluff;RBLC;Non-Metazoa;SAR
+76476c05f4c99edb255cf69397b142f3;Eukaryota;Ochrophyta;Phaeophyceae;Desmarestiales;Desmarestiaceae;Desmarestia;Desmarestia_aculeata;PIM-225;20;Water;Miers Bluff;RBLC;Non-Metazoa;Ochrophyta
+a7d17169ebb89bbde5d1f95b877162a8;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;245;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+913ed1033e5d6a7a81ae2ffd31e9b8dc;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;173;Water;Miers Bluff;RBLC;Bacteria;Not classified
+5cc4e6fd2221d80dcf19ff64b18ddd18;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;127;Water;Miers Bluff;RBLC;Bacteria;Not classified
+51f64ac45c6745968cc0b797186270df;unknown kingdom;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_organism;PIM-225;147;Water;Miers Bluff;RBLC;Not classified;Not classified
+ee31198a55deadd83e1fb891f95627ed;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;38;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+b10a50d9b4e98f2f72ee41d3374f01ee;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;86;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+9805a3d4d9bb769e88560760fc5ea4e1;Eukaryota;Bacillariophyta;Bacillariophyceae;Bacillariales;Bacillariaceae;Fragilariopsis;Fragilariopsis_cylindrus;PIM-225;109;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+29d4ae959d5489aec77fa25635b67029;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;79;Water;Miers Bluff;RBLC;Bacteria;Not classified
+447d8e21dc1bfe9efd8645a4912cb6df;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Skeletonemataceae;Skeletonema;Skeletonema_pseudocostatum;PIM-225;6;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+caacfd0d026b52a45231f3250b099d87;Bacteria;Cyanobacteria;unknown class;unknown order;unknown family;unknown genus;uncultured_cyanobacterium;PIM-225;52;Water;Miers Bluff;RBLC;Bacteria;Cyanobacteria
+2831cec537ef218fccf61e811ef812fb;Eukaryota;Chlorophyta;unknown class;unknown order;unknown family;unknown genus;uncultured_Chlorophyta;PIM-225;38;Water;Miers Bluff;RBLC;Non-Metazoa;Chlorophyta
+04a148aa4b51275b370ca14fcf3f5edd;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;81;Water;Miers Bluff;RBLC;Bacteria;Not classified
+792c29d74bc52b18452f4036f31a88cd;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;90;Water;Miers Bluff;RBLC;Bacteria;Not classified
+eef7645eb5029591c64cff9471e8017b;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;75;Water;Miers Bluff;RBLC;Bacteria;Not classified
+25556fa8dfd10ed551e38c9e1ef309a5;Eukaryota;Bacillariophyta;Mediophyceae;Hemiaulales;Hemiaulaceae;Eucampia;Eucampia_antarctica;PIM-225;55;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+6de378fbb70f2b6aa0ea6a55b5b70fc3;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;23;Water;Miers Bluff;RBLC;Bacteria;Not classified
+7f26e65058f51bc154b4f7f867c5e1d5;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;49;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+fa068776abfedb7ceed56ee293a62ff3;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;58;Water;Miers Bluff;RBLC;Bacteria;Not classified
+c699c09824f9254b56d7fd79323c09e2;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;69;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+28710bae72fb3d72c3e8e13cb981c12a;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-225;57;Water;Miers Bluff;RBLC;Non-Metazoa;Chlorophyta
+af3bb491baec81bdf499e3f361bb9008;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;19;Water;Miers Bluff;RBLC;Bacteria;Not classified
+b3a9a8d1e0938dab353fd0c9d13e4f35;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;11;Water;Miers Bluff;RBLC;Bacteria;Not classified
+22844dfa46cd54e1fff8609220b7f35d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;35;Water;Miers Bluff;RBLC;Bacteria;Not classified
+007623e5875c49669c858aa83511f960;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-225;14;Water;Miers Bluff;RBLC;Non-Metazoa;Cryptophyta
+ef2a482b80ed97ea254f8e303103085d;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;12;Water;Miers Bluff;RBLC;Bacteria;Not classified
+0425ce803b3496d05f8873392756e76d;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_phototrophic_eukaryote;PIM-225;25;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+7921402317f7639755c618bc5d00e20e;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;15;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+d3c6b39088ab500bfd757846504dc5e0;Eukaryota;Ciliophora;Spirotrichea;Tintinnida;unknown family;unknown genus;uncultured_Tintinnida;PIM-225;22;Water;Miers Bluff;RBLC;Non-Metazoa;SAR
+19e4dc5ca1210b89587f8fd7de97c064;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;30;Water;Miers Bluff;RBLC;Bacteria;Not classified
+33d616f5246c61bb7e900293cf217c05;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-225;74;Water;Miers Bluff;RBLC;Non-Metazoa;Chlorophyta
+3b22930f876c23a283b49170bbd10968;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-225;12;Water;Miers Bluff;RBLC;Non-Metazoa;Cryptophyta
+9b2103b1159fd9084fee9fe4db66da93;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;PIM-225;48;Water;Miers Bluff;RBLC;Non-Metazoa;Chlorophyta
+d062850b7e39901ba8a5a688c3dde509;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;12;Water;Miers Bluff;RBLC;Bacteria;Not classified
+645234de8f52277e5250be5670dfb93e;Eukaryota;unknown phylum;unknown class;Telonemida;unknown family;unknown genus;Telonemida_sp.;PIM-225;14;Water;Miers Bluff;RBLC;Non-Metazoa;Cryptophyta
+12e3899f1ea3abd2cf7cd164303f43ad;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;10;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+cd11ea8f66edaa37892ee8f0c66a2aaa;Eukaryota;Chlorophyta;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;PIM-225;12;Water;Miers Bluff;RBLC;Non-Metazoa;Chlorophyta
+98b24829ab71d51cbd5f6083b4604759;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;13;Water;Miers Bluff;RBLC;Bacteria;Not classified
+51a36611e36fa938d518985256bbf828;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;4;Water;Miers Bluff;RBLC;Bacteria;Not classified
+cbe081369f3d98b50b73d659ffb5b9f2;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;10;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+0d3e40e1347efd0bc226cc4f1143b8e6;Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira_sp._15BOF;PIM-225;4;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+5d798f1fdae493f71df293e6647c6ff0;Eukaryota;Bacillariophyta;Fragilariophyceae;Fragilariales;Fragilariaceae;Grammonema;Grammonema_striatula;PIM-225;7;Water;Miers Bluff;RBLC;Non-Metazoa;Diatom
+335d696116cebf05a98872c46404bbda;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;5;Water;Miers Bluff;RBLC;Bacteria;Not classified
+acdba07d33ba159dca127e5e4ce83cfc;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_phototrophic_eukaryote;PIM-225;4;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+8eb6f2bbc30e2beb33196bf972746e67;Bacteria;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_bacterium;PIM-225;2;Water;Miers Bluff;RBLC;Bacteria;Not classified
+dc28c2f441f2c8b63bd178365d4c7eaf;Eukaryota;unknown phylum;unknown class;unknown order;unknown family;unknown genus;uncultured_marine_eukaryote;PIM-225;2;Water;Miers Bluff;RBLC;Non-Metazoa;Not classified
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-108;367;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+13d2cc1a320e315c63c1b775cf6b1465;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-108;29;Krill;South Bay;18S;Non-Metazoa;SAR
+fa9fea7f1463a0976e63a136129cacc7;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-108;22;Krill;South Bay;18S;Non-Metazoa;SAR
+beb1e5b761959ee79e1dea56c3251e6a;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-108;11;Krill;South Bay;18S;Non-Metazoa;SAR
+a64018ebe2ec7883dd8ef7ea1188576a;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula;Navicula_glaciei;PIM-108;39;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+424e344e40fda6c2413f75a2a3aba9f7;Alveolata; Ciliophora; CONTH_7; CONTH_7_X; CONTH_7_XX; CONTH_7_XXX;CONTH_7_XXX_sp.;PIM-108;133;Krill;South Bay;18S;Non-Metazoa;SAR
+9966ecacecb68d03b8b71bfbebcc0a5c;Alveolata; Ciliophora; Litostomatea; Haptoria_4; Didiniidae; Didiniidae_X;Didiniidae_X_sp.;PIM-108;7;Krill;South Bay;18S;Non-Metazoa;SAR
+ac19e05c91e66b2ef9448f970da426b4; Metazoa; Arthropoda;Malacostraca;Mysida;Mysidae; Antarctomysis;Antarctomysis_maxima;PIM-108;136;Krill;South Bay;18S;Metazoa;Arthropoda
+4db4c84e91d93e1b669b1f77a482a7df; Metazoa; Arthropoda;Copepoda;Calanoida;Megacalanidae; Bathycalanus;Elenacalanus_princeps;PIM-108;68;Krill;South Bay;18S;Metazoa;Arthropoda
+49a766b21e49b4fba99b17aacd699271;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Suctoria_X; Suctoria_XX;Suctoria_XX_sp.;PIM-108;9;Krill;South Bay;18S;Non-Metazoa;SAR
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-171;609;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+fa9fea7f1463a0976e63a136129cacc7;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-171;30;Krill;South Bay;18S;Non-Metazoa;SAR
+e385ce484ab62d89115fed0621c20145;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-171;12;Krill;South Bay;18S;Non-Metazoa;SAR
+8930524aa11a0b72f290c8df496a259a;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Thalassiosira;Thalassiosira_minima;PIM-171;25;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+7946a49e831840c48969e6e10d052efd; Metazoa; Cnidaria;Hydrozoa;Siphonophorae; Hydrozoa; Nanomia;Nanomia_sp.;PIM-171;10;Krill;South Bay;18S;Metazoa;Cnidaria
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-472;6133;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+1d84cadfe099eedb86a3326213efea10;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-472;171;Krill;South Bay;18S;Non-Metazoa;SAR
+13d2cc1a320e315c63c1b775cf6b1465;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-472;1351;Krill;South Bay;18S;Non-Metazoa;SAR
+dce529d8d026be81af193a30ef43d1af;Stramenopiles; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-472;569;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+f27045a213c7a8c35a4f2752a4a6934e;Alveolata; Ciliophora; Spirotrichea; Strombidiida_B; Strombidiida_B_X; Strombidiida_B_XX;Strombidiida_B_XX_sp.;PIM-472;8;Krill;South Bay;18S;Non-Metazoa;SAR
+01b9f363c7077c3e3337cd123fc1d6ad;Rhizaria;Cercozoa; Filosa-Thecofilosea; Filosa-Thecofilosea_X; Mataza-lineage; Mataza-lineage_X;Mataza-lineage_X_sp.;PIM-472;81;Krill;South Bay;18S;Non-Metazoa;SAR
+92773a13b5312bba63908fde9316bc70;Eukaryota; Chlorophyta; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-472;38;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+a2bec71b9653f8d2d17b47302f780dd1;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-472;480;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+beb1e5b761959ee79e1dea56c3251e6a;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-472;80;Krill;South Bay;18S;Non-Metazoa;SAR
+fb20dd4a25f966c75be2360831a03904;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-472;340;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+a85a5159e1d86458db6caaacf05ac220;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-472;25;Krill;South Bay;18S;Non-Metazoa;SAR
+53c9366d766335ac794b6e703438398e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula; Navicula_lanceolata;PIM-472;96;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+aa84890a3e6f7513ae2d0c84d84d5e19;Rhizaria;Cercozoa; Filosa-Thecofilosea; Ventricleftida; Ventricleftida_X; Ventricleftida_XX;Ventricleftida_XX_sp.;PIM-472;92;Krill;South Bay;18S;Non-Metazoa;SAR
+96a59081ec7e2aaf2e390223673a587e;Archaeplastida; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Prunus;Prunus_persica;PIM-472;89;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+a1bb45c9f962a8b9151094a60113487b;Alveolata; Chrompodellids; Colpodellidea; Colpodellida; Colpodellaceae; Colpodella;Colpodella_sp.;PIM-472;26;Krill;South Bay;18S;Non-Metazoa;SAR
+28b9362f669c9b76ea4f7baa915336bc;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-16; Dino-Group-II-Clade-16_X;Dino-Group-II-Clade-16_X_sp.;PIM-472;21;Krill;South Bay;18S;Non-Metazoa;SAR
+66685feb8cfb2bdf22587d94a5672494;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-7; Dino-Group-II-Clade-7_X;Dino-Group-II-Clade-7_X_sp.;PIM-472;18;Krill;South Bay;18S;Non-Metazoa;SAR
+6918fdf90f817eeced6e96af98394c35;Rhizaria;Cercozoa; Filosa-Imbricatea; Filosa-Imbricatea_X; Novel-clade-2; Novel-clade-2_X;Novel-clade-2_X_sp.;PIM-472;17;Krill;South Bay;18S;Non-Metazoa;SAR
+9e5ddb0a86cbc3c535b56dcba123e151;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-472;12;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+06977369a0949aea4361cf6479478f0f;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-1; Dino-Group-II-Clade-1_X;Dino-Group-II-Clade-1_X_sp.;PIM-472;8;Krill;South Bay;18S;Non-Metazoa;SAR
+878dfa8b5a422e270f0dd4964dc39e22;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-1; Dino-Group-II-Clade-1_X;Dino-Group-II-Clade-1_X_sp.;PIM-472;8;Krill;South Bay;18S;Non-Metazoa;SAR
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-473;3415;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+c0249cc5f7bcecd1bae341a4125ab200;Archaeplastida; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-473;132;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+13d2cc1a320e315c63c1b775cf6b1465;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-473;447;Krill;South Bay;18S;Non-Metazoa;SAR
+dce529d8d026be81af193a30ef43d1af;Stramenopiles; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-473;219;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+74e44ce7b8c0b37b68c9b6d33d97461f;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_boccardiellae;PIM-473;542;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+92773a13b5312bba63908fde9316bc70;Eukaryota; Chlorophyta; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-473;57;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+a2bec71b9653f8d2d17b47302f780dd1;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-473;967;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+58fdb6bafc4c5394c11bc20b95ed55e1;Archaeplastida; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Brassica;Brassica_oleracea;PIM-473;57;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+28288618136d00ac9a8260f5c50ed579;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-473;178;Krill;South Bay;18S;Non-Metazoa;SAR
+beb1e5b761959ee79e1dea56c3251e6a;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-473;43;Krill;South Bay;18S;Non-Metazoa;SAR
+600d7110094a75647f54d8e69aa40f9f;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-473;231;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+00ffa2b1db54c648cf6bed5208da48e8;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_longissima;PIM-473;58;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+61b3b57574cef8066ce47fe9139de58c;Stramenopiles; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-473;17;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+2de920c9dad2499b7705870bf9a6122f;Rhizaria;Cercozoa; Filosa-Sarcomonadea; Glissomonadida; Sandonidae; Neoheteromita;Neoheteromita_sp.;PIM-473;17;Krill;South Bay;18S;Non-Metazoa;SAR
+cf81f2190a8d544785a75b2e9b008456;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-473;14;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+3d0ead8a6211ac2ccf5626542f215c82;Alveolata; Ciliophora; Spirotrichea; Strombidiida; Strombidiidae_B; Strombidiidae_B_X;Strombidiidae_B_X_sp.;PIM-473;13;Krill;South Bay;18S;Non-Metazoa;SAR
+aa041663c852bb0f21773157a2b7816c;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Strobilidiidae_I; Pelagostrobilidium;Pelagostrobilidium_neptuni;PIM-473;9;Krill;South Bay;18S;Non-Metazoa;SAR
+f13e0389f812bca3cabbee24063157a0;Archaeplastida; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-481;407;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-485;831;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+1d84cadfe099eedb86a3326213efea10;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-485;558;Krill;South Bay;18S;Non-Metazoa;SAR
+566f04db5d8aa9efdd001a887de1b7bd;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-485;1538;Krill;South Bay;18S;Non-Metazoa;SAR
+73b657d6e28bc58a3613a06cda781c50;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Paralecudinids; Paralecudina;Paralecudina_sp.;PIM-485;4848;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+65016d7d9d1aa48eb50d250aa3a6faae;Stramenopiles; Ochrophyta; Phaeophyceae; Phaeophyceae_X; Phaeophyceae_XX; Phaeophyceae_XXX;Phaeophyceae_XXX_sp.;PIM-485;33;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+f27045a213c7a8c35a4f2752a4a6934e;Alveolata; Ciliophora; Spirotrichea; Strombidiida_B; Strombidiida_B_X; Strombidiida_B_XX;Strombidiida_B_XX_sp.;PIM-485;265;Krill;South Bay;18S;Non-Metazoa;SAR
+92773a13b5312bba63908fde9316bc70;Eukaryota; Chlorophyta; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-485;92;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+58fdb6bafc4c5394c11bc20b95ed55e1;Archaeplastida; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Brassica;Brassica_oleracea;PIM-485;15;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+0b897570d79f67b1160d3fee38fcc1e5;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudinidae_X;Lecudinidae_X_sp.;PIM-485;1144;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+3cea8aa544380923f57548a3be03624a;Rhizaria;Cercozoa; Filosa-Thecofilosea; Cryomonadida; Protaspa-lineage; Protaspa-lineage_X;Protaspa-lineage_X_sp.;PIM-485;32;Krill;South Bay;18S;Non-Metazoa;SAR
+17ece08ff506e4d193d5d8dc1cd8b219;Rhizaria;Cercozoa; Filosa-Thecofilosea; Filosa-Thecofilosea_X; Mataza-lineage; Mataza-lineage_X;Mataza-lineage_X_sp.;PIM-485;20;Krill;South Bay;18S;Non-Metazoa;SAR
+75e99510a4d3b1472801e0a0de6b8762;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-485;17;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+28288618136d00ac9a8260f5c50ed579;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-485;469;Krill;South Bay;18S;Non-Metazoa;SAR
+5af5a19a21155e35bcd8adb59beb84c4;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_plana;PIM-485;12;Krill;South Bay;18S;Non-Metazoa;SAR
+4bb1a49014bb298763d44528a0e93516;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-485;12;Krill;South Bay;18S;Non-Metazoa;SAR
+559d1fb866732db4a3cdf2eef46cb411; Metazoa; Porifera;Demospongiae;Suberitida; Demospongiae; Halichondria;Halichondria_panicea;PIM-485;46;Krill;South Bay;18S;Metazoa;Porifera
+9c55bc387edcb22ece9967d2db1ef2a7;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Strobilidiidae_I; Pelagostrobilidium;Pelagostrobilidium_neptuni;PIM-485;36;Krill;South Bay;18S;Non-Metazoa;SAR
+8709875366ebb9290555611d547e46d0;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-485;44;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+270485f13bf02f82487e7f1a5237f7c3;Dinoflagellata;Alveolata; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Gymnodinium;Gymnodinium_sp.;PIM-485;40;Krill;South Bay;18S;Non-Metazoa;SAR
+ed2fe44d5a5bd71fa7337ce8a792f53b;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-485;13;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+424e344e40fda6c2413f75a2a3aba9f7;Alveolata; Ciliophora; CONTH_7; CONTH_7_X; CONTH_7_XX; CONTH_7_XXX;CONTH_7_XXX_sp.;PIM-485;36;Krill;South Bay;18S;Non-Metazoa;SAR
+b7d51c88e8da7beb3d38237223561c6c;;Dinoflagellata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-485;26;Krill;South Bay;18S;Non-Metazoa;SAR
+68ca1a0fcc0570dd0d10974e7f7c60c4;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudinidae_X;Lecudinidae_X_sp.;PIM-485;130;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+7e6f5127c4fdf916e303adfba06a6256;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Paralecudinids; Paralecudina;Paralecudina_sp.;PIM-485;115;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+4a725af4183ff2857b65d0c45aedaaa7;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-485;13;Krill;South Bay;18S;Non-Metazoa;SAR
+9c5af0b8c5984035725f37bcbbb0ceb6;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-485;12;Krill;South Bay;18S;Non-Metazoa;SAR
+2ad8e1526f75feae0276ace8e20dda89;;Dinoflagellata; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Gyrodinium;Gyrodinium_helveticum;PIM-485;47;Krill;South Bay;18S;Non-Metazoa;SAR
+249bc377101c5db815ef760b5d5ecd9c;;Dinoflagellata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-10-and-11; Dino-Group-II-Clade-10-and-11_X;Dino-Group-II-Clade-10-and-11_X_sp.;PIM-485;35;Krill;South Bay;18S;Non-Metazoa;SAR
+bff7b913ede40bdbc8e2246a27f79a11;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Paralecudinids; Paralecudina;Paralecudina_sp.;PIM-485;32;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+536875e937d0f9ef1e38871d0fcdd0d4;;Dinoflagellata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-38; Dino-Group-II-Clade-38_X;Dino-Group-II-Clade-38_X_sp.;PIM-485;29;Krill;South Bay;18S;Non-Metazoa;SAR
+532f8250ee9ef30f7022942442f349b4;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula;Navicula_glaciei;PIM-485;23;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+22cf5133375061b3adac0541ecb09b02;Eukaryota; Chlorophyta; Ulvophyceae; Ulvales-relatives; Ulvales-relatives_X; Ulvella;Ulvella_leptochaete;PIM-485;23;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+2f04e5396b5b7a5a1b6ad3aaa185ddae;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Araphid-pennate; Synedropsis;Synedropsis_sp.;PIM-485;23;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+c57da19cad068539c027dffa1d2a400f;; Prasinodermophyta; Prasinodermophyceae; Prasinodermales; Prasinodermaceae; Prasinoderma;Prasinoderma_sp.;PIM-485;20;Krill;South Bay;18S;Non-Metazoa;Prasinodermophyta
+6f5732217924e3a7771f1e2d4643dc1f;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-A;Dolichomastigaceae-A_sp.;PIM-485;21;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+61b64151e9ccb88046aa1ff5c19c7e41;Alveolata; Ciliophora; Phyllopharyngea; Cyrtophoria_7; Hartmannulidae; Heterohartmannula;Heterohartmannula_fangi;PIM-485;19;Krill;South Bay;18S;Non-Metazoa;SAR
+00aef61eeeb9be51febc2632dd872228;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Suctoria_X; Suctoria_XX;Suctoria_XX_sp.;PIM-485;15;Krill;South Bay;18S;Non-Metazoa;SAR
+5c631c74796ebaf86b15532bb5bb01b2;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Paralecudinids; Paralecudina;Paralecudina_sp.;PIM-485;17;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+ab8fdee27ec2d1e4bbc51896b614c7da;;Rhizaria; Filosa-Thecofilosea; Ebriida; TAGIRI1-lineage; TAGIRI1-lineage_X;TAGIRI1-lineage_X_sp.;PIM-485;16;Krill;South Bay;18S;Non-Metazoa;SAR
+8c155f427ea19b719e48708703b19094;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-485;14;Krill;South Bay;18S;Non-Metazoa;SAR
+87c0305af3a1da5dc1e99a1200f3fc6e;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Paralecudinids; Paralecudina;Paralecudina_sp.;PIM-485;13;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+639027da6b4b3256079cd7010ca78d6e;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-488;153;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+c0249cc5f7bcecd1bae341a4125ab200;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;25309;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+2a85711f1e21778b10d4f56632782a48;;Rhizaria; Filosa-Thecofilosea; Cryomonadida; Cryothecomonas-lineage; Cryothecomonas-lineage_X;Cryothecomonas-lineage_X_sp.;PIM-488;6466;Krill;South Bay;18S;Non-Metazoa;SAR
+dce529d8d026be81af193a30ef43d1af;; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-488;1345;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+65016d7d9d1aa48eb50d250aa3a6faae;; Ochrophyta; Phaeophyceae; Phaeophyceae_X; Phaeophyceae_XX; Phaeophyceae_XXX;Phaeophyceae_XXX_sp.;PIM-488;3291;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+95945adbef72ba29920bc8b461733997;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;2985;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+f27045a213c7a8c35a4f2752a4a6934e;Alveolata; Ciliophora; Spirotrichea; Strombidiida_B; Strombidiida_B_X; Strombidiida_B_XX;Strombidiida_B_XX_sp.;PIM-488;458;Krill;South Bay;18S;Non-Metazoa;SAR
+dd38325ff0e428aef9e0a94215ce8778;Eukaryota; Chlorophyta; Ulvophyceae; Ulvales-relatives; Ulvales-relatives_X; Ulvella;Ulvella_leptochaete;PIM-488;1615;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+ac41cb77f4a59c05c323a55e196f523f;Eukaryota; Chlorophyta; Pyramimonadophyceae; Pyramimonadales; Pterospermaceae; Pterosperma;Pterosperma_sp.;PIM-488;1541;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+92773a13b5312bba63908fde9316bc70;Eukaryota; Chlorophyta; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-488;454;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+fa9fea7f1463a0976e63a136129cacc7;;Dinoflagellata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-488;439;Krill;South Bay;18S;Non-Metazoa;SAR
+000f605dde6263723d9cb64bbd507c15;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;515;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+244d45cadc4b2c52030d388a949f6ac0;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-488;346;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+e0adfb68fb1a47722716afd85783b7ce;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;491;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+c104612d5cad1b722933bddeeccb4036;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;413;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+4bb1a49014bb298763d44528a0e93516;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-488;276;Krill;South Bay;18S;Non-Metazoa;SAR
+559d1fb866732db4a3cdf2eef46cb411; Metazoa; Porifera;Demospongiae;Suberitida; Demospongiae; Halichondria;Halichondria_panicea;PIM-488;346;Krill;South Bay;18S;Metazoa;Porifera
+3ca1f5767b6076a2bc946d412a86b2ca;; Prasinodermophyta; Prasinodermophyceae; Prasinodermales; Prasinodermaceae; Prasinoderma;Prasinoderma_sp.;PIM-488;290;Krill;South Bay;18S;Non-Metazoa;Prasinodermophyta
+b4cb15602903d6139d4bd95684dc1b80;;Dinoflagellata; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Gyrodinium;Gyrodinium_spirale;PIM-488;263;Krill;South Bay;18S;Non-Metazoa;SAR
+e0958ab0373dcba35016ca131592d142;;Rhizaria; Filosa-Thecofilosea; Cryomonadida; Cryothecomonas-lineage; Cryothecomonas-lineage_X;Cryothecomonas-lineage_X_sp.;PIM-488;326;Krill;South Bay;18S;Non-Metazoa;SAR
+f8230e4c3e89e12872db69c7637d18ea;; Sagenista; MAST-9; MAST-9A; MAST-9A_X; MAST-9A_XX;MAST-9A_XX_sp.;PIM-488;130;Krill;South Bay;18S;Non-Metazoa;Sagenista
+8de036770aae746a299dbae6c555aa60;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;318;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+9c55bc387edcb22ece9967d2db1ef2a7;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Strobilidiidae_I; Pelagostrobilidium;Pelagostrobilidium_neptuni;PIM-488;225;Krill;South Bay;18S;Non-Metazoa;SAR
+8709875366ebb9290555611d547e46d0;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-488;218;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+9e09f96767867a99867d8693e6cc58ed; Opalozoa;; MAST-3; MAST-3D; MAST-3D_X; MAST-3D_XX;MAST-3D_XX_sp.;PIM-488;305;Krill;South Bay;18S;Non-Metazoa;SAR
+270485f13bf02f82487e7f1a5237f7c3;Dinoflagellata;Alveolata; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Gymnodinium;Gymnodinium_sp.;PIM-488;252;Krill;South Bay;18S;Non-Metazoa;SAR
+f67159ec6c13d84e6d9503ef553a8207; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;288;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+4c466bb0a6472c7ab28bfa42fa2e6043; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;284;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+bbcac7a22176832fa26dcc8389353d67; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;266;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+7b148d9fb4cb5e695aae6223d8fedf7b; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;266;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+a64018ebe2ec7883dd8ef7ea1188576a; Ochrophyta;; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula;Navicula_glaciei;PIM-488;121;Krill;South Bay;18S;Non-Metazoa;Diatom
+b386f55c51382b4a39be8f0f5d6c76b3; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;254;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+80704fef88367815e2ba90266ae0999a; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;250;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+b49051460061d0206c498f7a8203b5d9;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-488;178;Krill;South Bay;18S;Non-Metazoa;SAR
+728a9ea1b3ceb00a64f9d2d432ac5be4;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;232;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+36cec46c9fa68b831e10ab5b9537cd69;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;219;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+888c27a6735a8044ca73d1d42e34f869;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-488;108;Krill;South Bay;18S;Non-Metazoa;SAR
+445e2586fdd07281f79c3b2dd14cb8fe;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;204;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+5acea7a1f46a605e54ed17d327024fb3;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;204;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+c3916ca63e7742551a631758cb11e9ed;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;190;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+2e80a28e8bf1561e5acdd30e5c7c3acd;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;168;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+d6e8d9370ea6d69160f75653ef9d409c;;Rhizaria; Filosa-Thecofilosea; Cryomonadida; Cryothecomonas-lineage; Cryothecomonas-lineage_X;Cryothecomonas-lineage_X_sp.;PIM-488;162;Krill;South Bay;18S;Non-Metazoa;SAR
+39bc763354758d01814a10f3a13f9f19;;Dinoflagellata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-488;161;Krill;South Bay;18S;Non-Metazoa;SAR
+52c27076afd5fbdaf6428b7064fe362a;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;148;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+8dce727ecbdf8b56d86404f837b4a1f4;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;147;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+c363fb82667fa0f06e3d14c14db38daa;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-488;135;Krill;South Bay;18S;Non-Metazoa;SAR
+8793335c0dbb33dc617b7319d73ec84c;; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-488;144;Krill;South Bay;18S;Non-Metazoa;SAR
+ef522719235dcf7a77e90f3a194165e5;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;142;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+1611ff65e29363d49cb4c65645a7a401;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;139;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+7a6c28e08a014439e64369ce693aeabf; Metazoa; Porifera;Demospongiae;Suberitida; Demospongiae; Halichondria;Halichondria_panicea;PIM-488;119;Krill;South Bay;18S;Metazoa;Porifera
+9fb698edd67921812f924799cd5d9c2b;Rhizaria;; Filosa-Thecofilosea; Cryomonadida; Cryothecomonas-lineage; Cryothecomonas-lineage_X;Cryothecomonas-lineage_X_sp.;PIM-488;116;Krill;South Bay;18S;Non-Metazoa;SAR
+8436907dcc16700912a2dfac45ff8e4b;Stramenopiles;; Phaeophyceae; Phaeophyceae_X; Phaeophyceae_XX; Phaeophyceae_XXX;Phaeophyceae_XXX_sp.;PIM-488;98;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+a67e8277a5536223622248fcf04e0d47;Archaeplastida;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-488;92;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+4d7e10d8b46a84a1088975f0b3b8bc15;Dinoflagellata;; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Gyrodinium;Gyrodinium_spirale;PIM-488;70;Krill;South Bay;18S;Non-Metazoa;SAR
+2f21a808063925813bd276eb9366f724;Eukaryota;; Pyramimonadophyceae; Pyramimonadales; Pterospermaceae; Pterosperma;Pterosperma_sp.;PIM-488;66;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+f05efa625e22d2ab2e472b578e6c39b8;Rhizaria;; Filosa-Imbricatea; Filosa-Imbricatea_X; Novel-clade-2; Novel-clade-2_X;Novel-clade-2_X_sp.;PIM-488;49;Krill;South Bay;18S;Non-Metazoa;SAR
+0b41a12df2d25ee66a838b4e9866974e;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-488;44;Krill;South Bay;18S;Non-Metazoa;SAR
+323d36abe9a4ca94777252b4a95b7d8f;Stramenopiles;; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-488;43;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+7261248fa893cc5229bf60199ae8dd63;Alveolata;; Spirotrichea; Strombidiida; Strombidiidae_M; Strombidium_M;Strombidium_M_sp.;PIM-488;37;Krill;South Bay;18S;Non-Metazoa;SAR
+34d6afef1a138000786cc6b23f761721;Eukaryota;;unknown class;unknown order;unknown family;unknown genus;uncultured organism;PIM-488;26;Krill;South Bay;18S;Non-Metazoa;Not classified
+36c654f32df262e3cb74b7ca7a122676;Alveolata;;unknown class;unknown order;unknown family;unknown genus;uncultured_organism;PIM-488;9;Krill;South Bay;18S;Non-Metazoa;SAR
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-489;5932;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+3164e7082c4cbd3598007b8a8bb1fefe;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;52612;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+1d84cadfe099eedb86a3326213efea10;Stramenopiles;; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-489;667;Krill;South Bay;18S;Non-Metazoa;SAR
+566f04db5d8aa9efdd001a887de1b7bd;Stramenopiles;; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-489;6058;Krill;South Bay;18S;Non-Metazoa;SAR
+13d2cc1a320e315c63c1b775cf6b1465;Dinoflagellata;; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-489;1517;Krill;South Bay;18S;Non-Metazoa;SAR
+dce529d8d026be81af193a30ef43d1af;Stramenopiles;; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-489;434;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+74e44ce7b8c0b37b68c9b6d33d97461f;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_boccardiellae;PIM-489;2313;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+f27045a213c7a8c35a4f2752a4a6934e;Alveolata;; Spirotrichea; Strombidiida_B; Strombidiida_B_X; Strombidiida_B_XX;Strombidiida_B_XX_sp.;PIM-489;986;Krill;South Bay;18S;Non-Metazoa;SAR
+a9ea3a79799be40a810431efe04c6ae9;Rhizaria;; Filosa-Thecofilosea; Cryomonadida; Protaspa-lineage; Protaspa-lineage_X;Protaspa-lineage_X_sp.;PIM-489;1634;Krill;South Bay;18S;Non-Metazoa;SAR
+92773a13b5312bba63908fde9316bc70;Eukaryota;; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-489;245;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+3cea8aa544380923f57548a3be03624a;Rhizaria;; Filosa-Thecofilosea; Cryomonadida; Protaspa-lineage; Protaspa-lineage_X;Protaspa-lineage_X_sp.;PIM-489;1041;Krill;South Bay;18S;Non-Metazoa;SAR
+945df7d8afa9437793ea709d4c91f8c7;Archaeplastida;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Lilium;Lilium_superbum;PIM-489;958;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+75e99510a4d3b1472801e0a0de6b8762;Eukaryota;; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-489;187;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+fa9fea7f1463a0976e63a136129cacc7;Dinoflagellata;; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-489;149;Krill;South Bay;18S;Non-Metazoa;SAR
+67343a6b201e6820fcf5a484cf9a0a9e;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-489;373;Krill;South Bay;18S;Non-Metazoa;SAR
+beb1e5b761959ee79e1dea56c3251e6a;Stramenopiles;; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-489;244;Krill;South Bay;18S;Non-Metazoa;SAR
+244d45cadc4b2c52030d388a949f6ac0;Eukaryota;; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-489;77;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+5af5a19a21155e35bcd8adb59beb84c4;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_plana;PIM-489;60;Krill;South Bay;18S;Non-Metazoa;SAR
+83593347e48731f9292ce898c7ad065f;Stramenopiles;; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-489;207;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+4bb1a49014bb298763d44528a0e93516;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-489;55;Krill;South Bay;18S;Non-Metazoa;SAR
+a7154bdf111be58249d3a05a67b6b7b7;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Radial-centric-basal-Coscinodiscophyceae; Corethron;Corethron_inerme;PIM-489;244;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+b4cb15602903d6139d4bd95684dc1b80;Dinoflagellata;; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Gyrodinium;Gyrodinium_spirale;PIM-489;109;Krill;South Bay;18S;Non-Metazoa;SAR
+1f1e3b5f89b2a691d9b73d11b8add1b4;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-489;92;Krill;South Bay;18S;Non-Metazoa;SAR
+9c55bc387edcb22ece9967d2db1ef2a7;Alveolata;; Spirotrichea; Choreotrichida; Strobilidiidae_I; Pelagostrobilidium;Pelagostrobilidium_neptuni;PIM-489;56;Krill;South Bay;18S;Non-Metazoa;SAR
+cfd9634bde19696b2ed8882646fa67ff;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;298;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+ed2fe44d5a5bd71fa7337ce8a792f53b;Eukaryota;; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-489;77;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+07b0394f19689675e6771c2987141cb4;Alveolata;; Phyllopharyngea; Cyrtophoria_1; PHYLL_4; PHYLL_4_X;PHYLL_4_X_sp.;PIM-489;268;Krill;South Bay;18S;Non-Metazoa;SAR
+a64018ebe2ec7883dd8ef7ea1188576a;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula;Navicula_glaciei;PIM-489;102;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+b49051460061d0206c498f7a8203b5d9;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-489;70;Krill;South Bay;18S;Non-Metazoa;SAR
+5e18c5508f465a8c6ceac3b32a795d01;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;246;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+a3d8bfc2a24241eba29316ee30d443ce;Eukaryota;; Ichthyosporea; Ichthyosphonida; Pseudoperkinsidae; Pseudoperkinsus;Pseudoperkinsus_tapetis;PIM-489;242;Krill;South Bay;18S;Non-Metazoa;Mesomycetozoa
+c71d05f905fae0489a6dcac8ec9e3e45;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-489;133;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+424e344e40fda6c2413f75a2a3aba9f7;Alveolata;; CONTH_7; CONTH_7_X; CONTH_7_XX; CONTH_7_XXX;CONTH_7_XXX_sp.;PIM-489;45;Krill;South Bay;18S;Non-Metazoa;SAR
+9966ecacecb68d03b8b71bfbebcc0a5c;Alveolata;; Litostomatea; Haptoria_4; Didiniidae; Didiniidae_X;Didiniidae_X_sp.;PIM-489;198;Krill;South Bay;18S;Non-Metazoa;SAR
+0d313c8d1fcf1ca8f39e714379a1996a;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;201;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+3f3175dcb57a3156b631e18ceffd5b1e;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;195;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+7ed7d9a7bea1a571c40230026a891601;Eukaryota;; Ulvophyceae; Ulvales-relatives; Ulvales-relatives_X; Dilabifilum;Dilabifilum_sp.;PIM-489;174;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+43153072953275a5c533a520f5e6206a;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;151;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+cd6ac4765b218dd7e47470393b02ff4c;Alveolata;; Spirotrichea; Strombidiida; Strombidiidae_M; Strombidium_M;Strombidium_M_sp.;PIM-489;138;Krill;South Bay;18S;Non-Metazoa;SAR
+491e22d4307bf4376f933cf9c33896a3;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Chaetoceros;Chaetoceros_debilis_2;PIM-489;77;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+08294b62aabf994b9f7235201cdadd11;Stramenopiles;; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-489;132;Krill;South Bay;18S;Non-Metazoa;SAR
+2b73ef4bfdc213ff88590076cb08f103;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;113;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+8dd546735cd050b60665b6f427c5707e;Alveolata;; Spirotrichea; Strombidiida; Strombidiidae_M; Strombidium_M;Strombidium_M_sp.;PIM-489;107;Krill;South Bay;18S;Non-Metazoa;SAR
+f3ca1c0deb3ce2c0fe4da64c9159cc23;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;106;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+542023655aab8dfd33cc8e252afab869;Eukaryota;;unknown class;unknown order;unknown family;unknown genus;uncultured organism;PIM-489;96;Krill;South Bay;18S;Non-Metazoa;Not classified
+601d95424f4ee6de1bce04582b3f28be;Stramenopiles;;unknown class;unknown order;unknown family;unknown genus;uncultured_organism;PIM-489;94;Krill;South Bay;18S;Non-Metazoa;SAR
+ae492575bcf09a137d37602c1a6f2666;Alveolata;; Phyllopharyngea; Chonotrichia; Isochonopsidae; Isochona;Isochona_sp.;PIM-489;88;Krill;South Bay;18S;Non-Metazoa;SAR
+163b4d1898232181656bf04bb312d667;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-489;88;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+e21b10822ec4cc94a5a381ba1e78a636;Archaeplastida;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Capsicum;Capsicum_annuum;PIM-489;77;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+f6873bd0bb6ab12dd706018627b4aef3;Rhizaria;; Filosa-Thecofilosea; Cryomonadida; Protaspa-lineage; Protaspa-lineage_X;Protaspa-lineage_X_sp.;PIM-489;78;Krill;South Bay;18S;Non-Metazoa;SAR
+063456eedef270bac6ccd54bd223cc6f;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula;Navicula_glaciei;PIM-489;76;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+4a725af4183ff2857b65d0c45aedaaa7;Alveolata;; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-489;62;Krill;South Bay;18S;Non-Metazoa;SAR
+7d6bbfe04a6b7a2d891b5420e20819e3;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;74;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+2d8264ee047e34a06aebdbf9f7e406e6;Alveolata;; Spirotrichea; Strombidiida_H; Strombidiida_H_X; Strombidiida_H_XX;Strombidiida_H_XX_sp.;PIM-489;62;Krill;South Bay;18S;Non-Metazoa;SAR
+ae70f15c06bf25681e53651b254eff70;Eukaryota;; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-489;62;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+489534f1a23f23bcdea4b0996765c1e6;Eukaryota;; Ulvophyceae; Ulvales-relatives; Ulvales-relatives_X; Dilabifilum;Dilabifilum_sp.;PIM-489;64;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+df17ae5b6c2d5e1157e4de69cd00fd28;Dinoflagellata;; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-489;63;Krill;South Bay;18S;Non-Metazoa;SAR
+b10f21506bd8283b3c020bd6774f9965;Rhizaria;; Filosa-Thecofilosea; Cryomonadida; Protaspa-lineage; Protaspa-lineage_X;Protaspa-lineage_X_sp.;PIM-489;62;Krill;South Bay;18S;Non-Metazoa;SAR
+d3897ce2d239b5274465a04137a3dbd8;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-489;59;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+6bb824f1c88476eb709cdeed25859c54;Alveolata;; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-489;42;Krill;South Bay;18S;Non-Metazoa;SAR
+98bd18a69f5733e4fb09b74d4acc98ac;Stramenopiles;; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-489;45;Krill;South Bay;18S;Non-Metazoa;SAR
+05023813bebf0effd87db53fc1b964e0;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;42;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+486c1d6152d2e18d612d356a97a0e6ff;Alveolata;; Spirotrichea; Choreotrichida; Strobilidiidae_A; Strobilidiidae_A_X;Strobilidiidae_A_X_sp.;PIM-489;39;Krill;South Bay;18S;Non-Metazoa;SAR
+c9661548f81ac5480d6b3a83730e463d;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Hemidiscaceae; Hemidiscus;Hemidiscus_cuneiformis;PIM-489;35;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+2452db9dace6fb213e57e6dd3f477727;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;34;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+552be5c6478ab0bc293c2f6d847ecd6d;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_sp.;PIM-489;31;Krill;South Bay;18S;Non-Metazoa;Apicomplexa
+bca870e3eec4ff41f12c3190876fda2d;Alveolata;; Oligohymenophorea; Peritrichia_2; Sessilida; Sessilida_X;Sessilida_X_sp.;PIM-489;27;Krill;South Bay;18S;Non-Metazoa;SAR
+6c6a94bd7f50b06fd77ca0e9b08041db;Stramenopiles;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-489;15;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+5d2f446c8a7d7cb11dafb8d0a5791a8f;Metazoa;Chordata; Ascidiacea;Stolidobranchia;Pyuridae; Pyura;Pyura_gibbosa;PIM-489;14;Krill;South Bay;18S;Metazoa;Urochordata
+639027da6b4b3256079cd7010ca78d6e;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-490;5135;Krill;South Bay;18S;Non-Metazoa;Diatom
+1d84cadfe099eedb86a3326213efea10;;Stramenopiles; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-490;9075;Krill;South Bay;18S;Non-Metazoa;SAR
+13d2cc1a320e315c63c1b775cf6b1465;;Dinoflagellata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-490;90;Krill;South Bay;18S;Non-Metazoa;SAR
+dce529d8d026be81af193a30ef43d1af;; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-490;862;Krill;South Bay;18S;Non-Metazoa;SAR
+f27045a213c7a8c35a4f2752a4a6934e;Alveolata; Ciliophora; Spirotrichea; Strombidiida_B; Strombidiida_B_X; Strombidiida_B_XX;Strombidiida_B_XX_sp.;PIM-490;401;Krill;South Bay;18S;Non-Metazoa;SAR
+01b9f363c7077c3e3337cd123fc1d6ad;Rhizaria;Cercozoa; Filosa-Thecofilosea; Filosa-Thecofilosea_X; Mataza-lineage; Mataza-lineage_X;Mataza-lineage_X_sp.;PIM-490;1888;Krill;South Bay;18S;Non-Metazoa;SAR
+92773a13b5312bba63908fde9316bc70;Eukaryota; Chlorophyta; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-490;561;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+58fdb6bafc4c5394c11bc20b95ed55e1;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Brassica;Brassica_oleracea;PIM-490;1296;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+17ece08ff506e4d193d5d8dc1cd8b219;;Rhizaria; Filosa-Thecofilosea; Filosa-Thecofilosea_X; Mataza-lineage; Mataza-lineage_X;Mataza-lineage_X_sp.;PIM-490;1033;Krill;South Bay;18S;Non-Metazoa;SAR
+75e99510a4d3b1472801e0a0de6b8762;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;670;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+65e28b738d49f4927180bd7aa5e6cbb1;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Brassica;Brassica_oleracea;PIM-490;838;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+67343a6b201e6820fcf5a484cf9a0a9e;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-490;210;Krill;South Bay;18S;Non-Metazoa;SAR
+244d45cadc4b2c52030d388a949f6ac0;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;80;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+f3d88a868596779b68b697fea2d675a1;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;497;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+5af5a19a21155e35bcd8adb59beb84c4;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_plana;PIM-490;205;Krill;South Bay;18S;Non-Metazoa;SAR
+83593347e48731f9292ce898c7ad065f;; Ochrophyta; Dictyochophyceae; Dictyochophyceae_X; Pedinellales; Mesopedinella;Mesopedinella_arctica;PIM-490;225;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+4bb1a49014bb298763d44528a0e93516;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-490;45;Krill;South Bay;18S;Non-Metazoa;SAR
+a7154bdf111be58249d3a05a67b6b7b7;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Radial-centric-basal-Coscinodiscophyceae; Corethron;Corethron_inerme;PIM-490;138;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+3ca1f5767b6076a2bc946d412a86b2ca;; Prasinodermophyta; Prasinodermophyceae; Prasinodermales; Prasinodermaceae; Prasinoderma;Prasinoderma_sp.;PIM-490;86;Krill;South Bay;18S;Non-Metazoa;Prasinodermophyta
+1f1e3b5f89b2a691d9b73d11b8add1b4;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-490;274;Krill;South Bay;18S;Non-Metazoa;SAR
+f8230e4c3e89e12872db69c7637d18ea;; Sagenista; MAST-9; MAST-9A; MAST-9A_X; MAST-9A_XX;MAST-9A_XX_sp.;PIM-490;194;Krill;South Bay;18S;Non-Metazoa;Sagenista
+8709875366ebb9290555611d547e46d0;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;53;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+ed2fe44d5a5bd71fa7337ce8a792f53b;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;184;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+c71d05f905fae0489a6dcac8ec9e3e45;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-490;102;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+6fb44b8ea85f0f46a7d180b7b6769303;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;222;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+b7d51c88e8da7beb3d38237223561c6c;;Dinoflagellata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-490;192;Krill;South Bay;18S;Non-Metazoa;SAR
+888c27a6735a8044ca73d1d42e34f869;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-490;101;Krill;South Bay;18S;Non-Metazoa;SAR
+c8e79f9a12c3df989c1e8a2c3edc0190;;Dinoflagellata; Syndiniales; Dino-Group-II; Dino-Group-II-Clade-1; Dino-Group-II-Clade-1_X;Dino-Group-II-Clade-1_X_sp.;PIM-490;203;Krill;South Bay;18S;Non-Metazoa;SAR
+0e9de544d13f8aeba65c5054d4ec2583;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-490;197;Krill;South Bay;18S;Non-Metazoa;SAR
+22e16d7209eb7854e40c44636ddb8109;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-490;169;Krill;South Bay;18S;Non-Metazoa;SAR
+2856eaeadea9b1c7f5bc0f181eb121b7;; Ochrophyta; Bolidophyceae; Parmales; Parmales_env_3; Parmales_env_3B;Parmales_env_3B_sp.;PIM-490;147;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+491e22d4307bf4376f933cf9c33896a3;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Chaetoceros;Chaetoceros_debilis_2;PIM-490;57;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+a78c4ebf035e0044cf16f18fd2616c31;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;85;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+4d218b792f2db2e07f332bb8dc4b1913;; Haptophyta; Prymnesiophyceae; Prymnesiales; Chrysochromulinaceae; Chrysochromulina;Chrysochromulina_sp.;PIM-490;85;Krill;South Bay;18S;Non-Metazoa;Haptophyta
+9c5af0b8c5984035725f37bcbbb0ceb6;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-490;59;Krill;South Bay;18S;Non-Metazoa;SAR
+fce4bc51f07ef449785f83927cf077f4;; Sagenista; MAST-7; MAST-7A; MAST-7A_X; MAST-7A_XX;MAST-7A_XX_sp.;PIM-490;66;Krill;South Bay;18S;Non-Metazoa;Sagenista
+8493e7294abfb69f1b391ddeaa3dd413;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-490;65;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+3c1c4479c11a27e0a217cbf01ef44882;; Streptophyta; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Brassica;Brassica_oleracea;PIM-490;63;Krill;South Bay;18S;Non-Metazoa;Streptophyta
+422954a8d9750f699d3f42c4dfd83943;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;51;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+861448821cf7948199ccd9cccffffb30;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-490;35;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+d9dccf7ec5eb61ba67b5aeefcd3493ba;Metazoa;Annelida;Polychaeta;Spionida;Apistobranchidae; Apistobranchus;Apistobranchus_sp.;PIM-490;34;Krill;South Bay;18S;Metazoa;Annelida
+5087ac8deb09f06c33e9ee441beff649;Alveolata; Ciliophora; Spirotrichea; Strombidiida; Strombidiidae; Spirostrombidium;Spirostrombidium_agathae;PIM-490;21;Krill;South Bay;18S;Non-Metazoa;SAR
+a56a0e83bb65f865cfcbf63bfb19c8d4;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Raphid-pennate; Navicula;Navicula_glaciei;PIM-490;20;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+639027da6b4b3256079cd7010ca78d6e;; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-493;1303;Krill;South Bay;18S;Non-Metazoa;Ochrophyta
+13d2cc1a320e315c63c1b775cf6b1465;;Dinoflagellata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-493;61;Krill;South Bay;18S;Non-Metazoa;SAR
+f27045a213c7a8c35a4f2752a4a6934e;Alveolata; Ciliophora; Spirotrichea; Strombidiida_B; Strombidiida_B_X; Strombidiida_B_XX;Strombidiida_B_XX_sp.;PIM-493;197;Krill;South Bay;18S;Non-Metazoa;SAR
+75e99510a4d3b1472801e0a0de6b8762;Eukaryota; Chlorophyta; Mamiellophyceae; Dolichomastigales; Dolichomastigaceae; Dolichomastigaceae-B;Dolichomastigaceae-B_sp.;PIM-493;78;Krill;South Bay;18S;Non-Metazoa;Chlorophyta
+5af5a19a21155e35bcd8adb59beb84c4;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_plana;PIM-493;218;Krill;South Bay;18S;Non-Metazoa;SAR
+559337131ec342e40f6716effa3365f9; Streptophyta;; Embryophyceae; Embryophyceae_X; Embryophyceae_XX; Festuca;Festuca_rubra;PIM-493;14;Krill;South Bay;18S;Non-Metazoa;Tracheophyta
+639027da6b4b3256079cd7010ca78d6e; Ochrophyta;; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-146;54596;Salps;Hannah Point;18S;Non-Metazoa;Diatom
+13d2cc1a320e315c63c1b775cf6b1465;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146;974;Salps;Hannah Point;18S;Non-Metazoa;SAR
+74e44ce7b8c0b37b68c9b6d33d97461f;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X; Gregarinomorphea_XX; Selenidium1;Selenidium_boccardiellae;PIM-146;82;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+dd38325ff0e428aef9e0a94215ce8778;;Eukaryota; Chlorophyta; Ulvales-relatives; Ulvales-relatives_X; Ulvella;Ulvella_leptochaete;PIM-146;8;Salps;Hannah Point;18S;Non-Metazoa;Chlorophyta
+92773a13b5312bba63908fde9316bc70;;Eukaryota; Chlorophyta; Mamiellales; Mamiellaceae; Micromonas;Micromonas_polaris;PIM-146;15;Salps;Hannah Point;18S;Non-Metazoa;Chlorophyta
+0b897570d79f67b1160d3fee38fcc1e5;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudinidae_X;Lecudinidae_X_sp.;PIM-146;179;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+33574da682480fa6ff5eb5fa5a645770; Metazoa; Arthropoda;Copepoda;Calanoida;Metridinidae; Metridia;Metridia_effusa;PIM-146;740;Salps;Hannah Point;18S;Metazoa;Arthropoda
+beb1e5b761959ee79e1dea56c3251e6a;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-146;121;Salps;Hannah Point;18S;Non-Metazoa;SAR
+932cf17c44b117855db4282ecf4bc99b;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-146;412;Salps;Hannah Point;18S;Non-Metazoa;Ochrophyta
+4bb1a49014bb298763d44528a0e93516;Alveolata; Ciliophora; Phyllopharyngea; Suctoria; Ephelotidae; Ephelota;Ephelota_mammillata;PIM-146;17;Salps;Hannah Point;18S;Non-Metazoa;SAR
+ebecc5d49cbfc02f077c6fd52dfb519a;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Eugregarinorida_EUG2; Eugregarinorida_EUG2_X;Eugregarinorida_EUG2_X_sp.;PIM-146;338;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+a85a5159e1d86458db6caaacf05ac220;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146;231;Salps;Hannah Point;18S;Non-Metazoa;SAR
+3a67cf16f5215ffab5ba53f00dba2dfc;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-4; Dino-Group-I-Clade-4_X;Dino-Group-I-Clade-4_X_sp.;PIM-146;141;Salps;Hannah Point;18S;Non-Metazoa;SAR
+a420ad4d3bbc1d58f0718b8bdb632282;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X_GRE3; Gregarinomorphea_X_GRE3_X; Gregarinomorphea_X_GRE3_XX;Gregarinomorphea_X_GRE3_XX_sp.;PIM-146;217;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+c363fb82667fa0f06e3d14c14db38daa;Alveolata; Ciliophora; Spirotrichea; Choreotrichida; Leegaardiellidae_B; Leegaardiella;Leegaardiella_sp.;PIM-146;10;Salps;Hannah Point;18S;Non-Metazoa;SAR
+59387e3c2d48fd68cfe822106ab48f7a;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146;123;Salps;Hannah Point;18S;Non-Metazoa;SAR
+92a30977942d950117e52bbbd0db1209;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146;65;Salps;Hannah Point;18S;Non-Metazoa;SAR
+c13f6c13f614bde2a68667642672e2a1;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146;88;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+9f918d64e5e015bbf98a1e9954e59678;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X_GRE3; Gregarinomorphea_X_GRE3_X; Gregarinomorphea_X_GRE3_XX;Gregarinomorphea_X_GRE3_XX_sp.;PIM-146;86;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+1e8241022e3391115751a4d9e10079c1;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146;50;Salps;Hannah Point;18S;Non-Metazoa;SAR
+a5da5122559bbbd49068ec39d7b27af2;Eukaryota; Apicomplexa; Coccidiomorphea; Marosporida; Rhytidocystidae; Rhytidocystis;Rhytidocystis_cyamus;PIM-146;52;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+1a35770e47166d7405c50ca2a10ada56;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146;50;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+b85600b2b3ca747150d01795db143066;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146;37;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+a7beacf440783f6f810618ce965df7ad;Stramenopiles; Ochrophyta; Eustigmatophyceae; Eustigmatophyceae_X; Eustigmatophyceae_XX; Nannochloropsis;Nannochloropsis_granulata;PIM-146;46;Salps;Hannah Point;18S;Non-Metazoa;Ochrophyta
+44b53e63633ef2901ef7f024a2a1a47c;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146;40;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+a1bb45c9f962a8b9151094a60113487b;Alveolata; Chrompodellids; Colpodellidea; Colpodellida; Colpodellaceae; Colpodella;Colpodella_sp.;PIM-146;14;Salps;Hannah Point;18S;Non-Metazoa;SAR
+1f7cfa35ddf63d21aa9e439b33f589e5;Eukaryota; Apicomplexa; Coccidiomorphea; Marosporida; Rhytidocystidae; Rhytidocystidae_X;Rhytidocystidae_X_sp.;PIM-146;9;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+a35be304a8df8bf7161e256602ce6b88;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Polyplicariidae; Polyplicarium;Polyplicarium_sp.;PIM-146;35;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+8ae23935c0b41a59d6777bec5c41b69d;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Eugregarinorida_EUG2; Eugregarinorida_EUG2_X;Eugregarinorida_EUG2_X_sp.;PIM-146;30;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+bcadf7b8c720b2ebe54118740fcc7c9c;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-3; Dino-Group-I-Clade-3_X;Dino-Group-I-Clade-3_X_sp.;PIM-146;28;Salps;Hannah Point;18S;Non-Metazoa;SAR
+2e94ec597fd7c9e3ad8a4759043158de;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146;12;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+639027da6b4b3256079cd7010ca78d6e;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-146-2;14384;Salps;Hannah Point;18S;Non-Metazoa;Ochrophyta
+13d2cc1a320e315c63c1b775cf6b1465;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146-2;307;Salps;Hannah Point;18S;Non-Metazoa;SAR
+fa9fea7f1463a0976e63a136129cacc7;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146-2;9;Salps;Hannah Point;18S;Non-Metazoa;SAR
+beb1e5b761959ee79e1dea56c3251e6a;Stramenopiles; Pseudofungi; MAST-1; MAST-1C; MAST-1C_X; MAST-1C_XX;MAST-1C_XX_sp.;PIM-146-2;57;Salps;Hannah Point;18S;Non-Metazoa;SAR
+932cf17c44b117855db4282ecf4bc99b;Stramenopiles; Ochrophyta; Bacillariophyta; Bacillariophyta_X; Polar-centric-Mediophyceae; Shionodiscus;Shionodiscus_bioculatus;PIM-146-2;93;Salps;Hannah Point;18S;Non-Metazoa;Ochrophyta
+a85a5159e1d86458db6caaacf05ac220;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146-2;32;Salps;Hannah Point;18S;Non-Metazoa;SAR
+3a67cf16f5215ffab5ba53f00dba2dfc;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-4; Dino-Group-I-Clade-4_X;Dino-Group-I-Clade-4_X_sp.;PIM-146-2;71;Salps;Hannah Point;18S;Non-Metazoa;SAR
+59387e3c2d48fd68cfe822106ab48f7a;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146-2;11;Salps;Hannah Point;18S;Non-Metazoa;SAR
+0cdea114642965594fc88bae4ad544ff;Rhizaria;Cercozoa; Filosa-Thecofilosea; Ebriida; Ebriidae; Ebria;Ebria_tripartita;PIM-146-2;97;Salps;Hannah Point;18S;Non-Metazoa;SAR
+92a30977942d950117e52bbbd0db1209;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146-2;27;Salps;Hannah Point;18S;Non-Metazoa;SAR
+1e8241022e3391115751a4d9e10079c1;Dinoflagellata;Alveolata; Syndiniales; Dino-Group-I; Dino-Group-I-Clade-1; Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;PIM-146-2;12;Salps;Hannah Point;18S;Non-Metazoa;SAR
+8cebff1d46cf1b06153dc4658311c2d6;Eukaryota; Apicomplexa; Gregarinomorphea; Gregarinomorphea_X_GRE3; Gregarinomorphea_X_GRE3_X; Gregarinomorphea_X_GRE3_XX;Gregarinomorphea_X_GRE3_XX_sp.;PIM-146-2;52;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+b85600b2b3ca747150d01795db143066;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146-2;13;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+f7a612acdef4d8d24e40bba56b1c5a5c;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Eugregarinorida_EUG2; Eugregarinorida_EUG2_X;Eugregarinorida_EUG2_X_sp.;PIM-146-2;33;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+84cc7ed7f136a4f76aa88ebf7505afc9;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudinidae_X;Lecudinidae_X_sp.;PIM-146-2;39;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+a6b9b8c497fc8939cc9ecb74efa7c82e;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146-2;30;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+8449b6bb9f19fdd02fed1b20c9380e84;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lecudina;Lecudina_phyllochaetopteri;PIM-146-2;22;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
+074b5a3099c2efc6a93b92b65b453195;Eukaryota; Apicomplexa; Gregarinomorphea; Eugregarinorida; Lecudinidae; Lankesteria;Lankesteria_cystodytae;PIM-146-2;20;Salps;Hannah Point;18S;Non-Metazoa;Apicomplexa
